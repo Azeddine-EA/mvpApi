@@ -1432,6 +1432,7 @@
       {"vendeur": "Darty", "url": "https://www.darty.com/sony-a90j-65", "price": 2390.00, "avis":[{"content":"Très satisfait","note":4.9}]}
     ]
   },
+  {
     "name": "Samsung QLED Q80B 55\"",
     "desc": "Téléviseur QLED 4K UHD 55\" avec Direct Full Array pour un contraste amélioré, idéal pour films et gaming.",
     "moyenne_price": 899.99,
@@ -1925,3 +1926,4 @@
     ]
   },
 ]
+
