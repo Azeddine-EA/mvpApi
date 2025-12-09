@@ -1,1929 +1,2732 @@
 [
-  {
-    "name": "Xiaomi Redmi Note 14 5G 256 Go",
-    "desc": "Smartphone milieu de gamme récent, 5G, 6.67\" AMOLED 120 Hz, bonne autonomie, bon compromis qualité/prix.",
-    "moyenne_price": 242.00,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Redmi Note 14 5G face", "url": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-14-5g/image/color-black.png"},
-      {"title": "Redmi Note 14 5G dos", "url": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-14-5g/image/back-black.png"}
-    ],
-    "marque": "Xiaomi",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/Smartphone-Xiaomi-Redmi-Note-14-6-67-5G-Double-nano-SIM-256-Go-Vert-corail/a21101981",
-        "price": 242.00
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com",
-        "price": 252.00
-      },
-      {
-        "vendeur": "Marketplace (vendeur tiers)",
-        "url": "https://www.fnac.com",
-        "price": 221.89
-      }
-    ]
-  },
-  {
-    "name": "Xiaomi Redmi Note 14 Pro 5G",
-    "desc": "Smartphone 5G milieu/haut de gamme, écran AMOLED 6.67\", capteur photo principal très puissant, bon pour photo & usage intensif.",
-    "moyenne_price": 322.00,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Redmi Note 14 Pro 5G front", "url": "https://cdn1.cronometer.com/webp/url/https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-14-pro-5g/image/bla.jpg"},
-      {"title": "Redmi Note 14 Pro 5G back", "url": "https://cdn1.cronometer.com/webp/url/https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-14-pro-5g/image/back.jpg"}
-    ],
-    "marque": "Xiaomi",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/mp51488624/Xiaomi-Redmi-Note-14-Pro-5G-12Go-RAM-512Go-Noir/w-4",
-        "price": 322.00
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com",
-        "price": 349.00
-      },
-      {
-        "vendeur": "Marketplace (vendeur tiers)",
-        "url": "https://www.fnac.com",
-        "price": 289.00
-      }
-    ]
-  },
-  {
-    "name": "Xiaomi Redmi Note 14 Pro+ 5G 512 Go",
-    "desc": "Version haut de gamme de la série Note 14 : 5G, écran large, stockage important, bon pour multimédia, photo et usage quotidien intensif.",
-    "moyenne_price": 402.00,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Redmi Note 14 Pro+ 5G front", "url": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-14-pro-5g/image/white-front.png"},
-      {"title": "Redmi Note 14 Pro+ 5G back", "url": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-14-pro-5g/image/white-back.png"}
-    ],
-    "marque": "Xiaomi",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/Xiaomi-Redmi-Note-14-Note-14-Pro-Note-14-Pro-Plus/nsh565146/w-4",
-        "price": 402.00
-      }
-    ]
-  },
-  {
-    "name": "Nothing Phone 3 256 Go",
-    "desc": "Smartphone moderne avec bon rapport performances / design / autonomie — idéal pour Android personnalisé et usage quotidien fluide.",
-    "moyenne_price": 599.00,
-    "moyenne_stars": 4.2,
-    "picture": [
-      {"title": "Nothing Phone 3 front", "url": "https://static.darty.com/images/products/5/8/1/0/0/600x600/nothing-phone-3-256-go-noir.jpg"},
-      {"title": "Nothing Phone 3 dos", "url": "https://static.darty.com/images/products/5/8/1/0/1/600x600/nothing-phone-3-256-go-noir-back.jpg"}
-    ],
-    "marque": "Nothing",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com/nav/achat/telephonie/telephone_mobile/mobile/nothing_pack_phone_3_watch.html",
-        "price": 599.00
-      }
-    ]
-  },
-  {
-    "name": "Samsung Galaxy A32 128 Go",
-    "desc": "Smartphone milieu de gamme, suffisant pour les usages courants — appels, réseaux sociaux, navigation, etc.",
-    "moyenne_price": 249.00,
-    "moyenne_stars": 4.3,
-    "picture": [
-      {"title": "Galaxy A32 front", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/sm-a325/sm-a325fzkhfra/gallery/fr-galaxy-a32-sm-a325-sm-a325fzkhfra-534993430?$730_584_PNG$"},
-      {"title": "Galaxy A32 dos", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/sm-a325/sm-a325fzkhfra/gallery/fr-galaxy-a32-sm-a325-sm-a325fzkhfra-534993432?$730_584_PNG$"}
-    ],
-    "marque": "Samsung",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com",
-        "price": 249.00
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com",
-        "price": 249.00
-      }
-    ]
-  },
-  {
-    "name": "Vivo Y11s 32 Go",
-    "desc": "Smartphone d’entrée / milieu de gamme, suffisant pour les usages basiques — appels, messagerie, navigation légère.",
-    "moyenne_price": 139.00,
-    "moyenne_stars": 4.0,
-    "picture": [
-      {"title": "Vivo Y11s front", "url": "https://static.fnac-static.com/multimedia/Images/FR/NR/1e/5f/31/16527876/1507-1/tsp20240701122345/Vivo-Y11s-32-Go-Noir.jpg"},
-      {"title": "Vivo Y11s dos", "url": "https://static.fnac-static.com/multimedia/Images/FR/NR/1e/5f/31/16527876/1508-1/tsp20240701122346/Vivo-Y11s-32-Go-Noir-back.jpg"}
-    ],
-    "marque": "Vivo",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com",
-        "price": 139.00
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com",
-        "price": 139.00
-      }
-    ]
-  },
-  {
-    "name": "Huawei P40 Lite 128 Go",
-    "desc": "Smartphone milieu de gamme, adapté pour un usage standard, navigation, apps et appels, à prix abordable.",
-    "moyenne_price": 199.00,
-    "moyenne_stars": 4.1,
-    "picture": [
-      {"title": "Huawei P40 Lite front", "url": "https://cdn-static.fnac.com/multimedia/Images/FR/NR/1e/39/2d/16439732/1507-1/tsp20240709120012/Huawei-P40-Lite-128-Go-Noir.jpg"},
-      {"title": "Huawei P40 Lite dos", "url": "https://cdn-static.fnac.com/multimedia/Images/FR/NR/1e/39/2d/16439732/1508-1/tsp20240709120013/Huawei-P40-Lite-128-Go-Noir-back.jpg"}
-    ],
-    "marque": "Huawei",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com",
-        "price": 199.00
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com",
-        "price": 199.00
-      }
-    ]
-  },
-  {
-    "name": "Oppo Reno 4Z 5G 128 Go",
-    "desc": "Smartphone 5G milieu de gamme, bon équilibre entre performance, 5G et usage quotidien.",
-    "moyenne_price": 299.00,
-    "moyenne_stars": 4.3,
-    "picture": [
-      {"title": "Oppo Reno 4Z 5G front", "url": "https://static.fnac-static.com/multimedia/Images/FR/NR/2b/7c/97/16154879/1507-1/tsp20240521103010/Oppo-Reno-4Z-5G-128-Go-Noir.jpg"},
-      {"title": "Oppo Reno 4Z 5G dos", "url": "https://static.fnac-static.com/multimedia/Images/FR/NR/2b/7c/97/16154879/1508-1/tsp20240521103011/Oppo-Reno-4Z-5G-128-Go-Noir-back.jpg"}
-    ],
-    "marque": "Oppo",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com",
-        "price": 299.00
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com",
-        "price": 299.00
-      }
-    ]
-  },
-   {
-    "name": "Xiaomi Redmi Note 14 5G 8+256 Go",
-    "desc": "Smartphone milieu-de-gamme 5G, écran AMOLED 6.67\" 120 Hz, bonne autonomie, bon rapport qualité/prix.", 
-    "moyenne_price": 242.00,
-    "moyenne_stars": 4.4,
-    "picture": [
-      {"title": "Redmi Note 14 5G face", "url": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-14-5g/image/color-black.png"},
-      {"title": "Redmi Note 14 5G dos", "url": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-14-5g/image/back-black.png"}
-    ],
-    "marque": "Xiaomi",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "url": "https://www.amazon.fr/Smartphone-Xiaomi-Note-14-fonctionnalit%C3%A9s/dp/B0DKP7T5V1",
-        "price": 242.00
-      }
-    ]
-  },
-  {
-    "name": "Xiaomi Redmi Note 14 5G 8+256 Go (noir)",
-    "desc": "Variante Redmi Note 14 5G, bon choix 5G abordable pour un usage quotidien.", 
-    "moyenne_price": 159.00,
-    "moyenne_stars": 4.4,
-    "picture": [
-      {"title": "Redmi Note 14 5G noir face", "url": "https://cdn1.cronometer.com/webp/url/https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-14-5g/image/black-front.png"},
-      {"title": "Redmi Note 14 5G noir dos", "url": "https://cdn1.cronometer.com/webp/url/https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-14-5g/image/black-back.png"}
-    ],
-    "marque": "Xiaomi",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "url": "https://www.amazon.fr/Xiaomi-Note-14-Smartphone-fonctionnalit%C3%A9s/dp/B0DRCX34LQ",
-        "price": 159.00
-      }
-    ]
-  },
-  {
-    "name": "Xiaomi Redmi Note 14 Pro 5G 8+256 Go",
-    "desc": "Smartphone 5G milieu-haut de gamme, écran AMOLED 6.67\", bonne performance globale, bon compromis qualité/prix.", 
-    "moyenne_price": 322.00,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "Redmi Note 14 Pro 5G front", "url": "https://static.darty.com/images/products/5/8/1/0/0/600x600/RM-RN14PRO5G-8/Redmi-Note-14-Pro-5G-256-Go-Noir.jpg"},
-      {"title": "Redmi Note 14 Pro 5G back", "url": "https://static.darty.com/images/products/5/8/1/0/0/600x600/RM-RN14PRO5G-8/Redmi-Note-14-Pro-5G-256-Go-Noir-back.jpg"}
-    ],
-    "marque": "Xiaomi",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com/nav/achat/telephonie/telephone_mobile/mobile/xiaomi_redmi_note_14_pro_5g_256go.html",
-        "price": 322.00
-      }
-    ]
-  },
-  {
-    "name": "Smartphone Google Pixel 9 128 Go (5G)",
-    "desc": "Smartphone haut de gamme Android, bon équilibre photo / performance / OS natif.", 
-    "moyenne_price": 742.05,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Google Pixel 9 face", "url": "https://www.darty.com/nav/attachment/image/zoom/PXL9-BK-PROD.jpg"},
-      {"title": "Google Pixel 9 dos", "url": "https://www.darty.com/nav/attachment/image/zoom/PXL9-BK-BACK.jpg"}
-    ],
-    "marque": "Google",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com/nav/achat/telephonie/telephone_mobile/mobile/google_pixel_9_128go.html",
-        "price": 742.05
-      }
-    ]
-  },
-  {
-    "name": "Samsung Galaxy A32 128 Go",
-    "desc": "Smartphone milieu de gamme basique, suffisant pour appels, réseaux sociaux, navigation.", 
-    "moyenne_price": 249.00,
-    "moyenne_stars": 4.3,
-    "picture": [
-      {"title": "Galaxy A32 face", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/sm-a325/sm-a325fzkhfra/gallery/fr-galaxy-a32-sm-a325-sm-a325fzkhfra-534993430?$730_584_PNG$"},
-      {"title": "Galaxy A32 dos", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/sm-a325/sm-a325fzkhfra/gallery/fr-galaxy-a32-sm-a325-sm-a325fzkhfra-534993432?$730_584_PNG$"}
-    ],
-    "marque": "Samsung",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com",
-        "price": 249.00
-      }
-    ]
-  },
-  {
-    "name": "Smartphone Oppo Reno 4Z 5G 128 Go",
-    "desc": "Smartphone 5G milieu de gamme, bon équilibre performance / prix pour usage quotidien.", 
-    "moyenne_price": 299.00,
-    "moyenne_stars": 4.3,
-    "picture": [
-      {"title": "Oppo Reno 4Z 5G face", "url": "https://static.fnac-static.com/multimedia/Images/FR/NR/2b/7c/97/16154879/1507-1/tsp20240521103010/Oppo-Reno-4Z-5G-128-Go-Noir.jpg"},
-      {"title": "Oppo Reno 4Z 5G dos", "url": "https://static.fnac-static.com/multimedia/Images/FR/NR/2b/7c/97/16154879/1508-1/tsp20240521103011/Oppo-Reno-4Z-5G-128-Go-Noir-back.jpg"}
-    ],
-    "marque": "Oppo",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com",
-        "price": 299.00
-      }
-    ]
-  },
-  {
-    "name": "Smartphone Huawei P40 Lite 128 Go",
-    "desc": "Smartphone milieu de gamme abordable, suffisant pour usage standard (apps, appels, navigation).", 
-    "moyenne_price": 199.00,
-    "moyenne_stars": 4.1,
-    "picture": [
-      {"title": "Huawei P40 Lite face", "url": "https://cdn-static.fnac.com/multimedia/Images/FR/NR/1e/39/2d/16439732/1507-1/tsp20240709120012/Huawei-P40-Lite-128-Go-Noir.jpg"},
-      {"title": "Huawei P40 Lite dos", "url": "https://cdn-static.fnac.com/multimedia/Images/FR/NR/1e/39/2d/16439732/1508-1/tsp20240709120013/Huawei-P40-Lite-128-Go-Noir-back.jpg"}
-    ],
-    "marque": "Huawei",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com",
-        "price": 199.00
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com",
-        "price": 199.00
-      }
-    ]
-  },
-  {
-    "name": "Smartphone Motorola Moto G15",
-    "desc": "Smartphone économique, suffisant pour les usages basiques: appels, messages, navigation simple.", 
-    "moyenne_price": 104.99,
-    "moyenne_stars": 4.2,
-    "picture": [
-      {"title": "Moto G15 face", "url": "https://static.fnac-static.com/multimedia/Images/FR/NR/7e/1b/8f/6429398/1507-1/tsp20231219092642/Motorola-Moto-G15-6-72-Double-SIM-256-Go-Gris.jpg"},
-      {"title": "Moto G15 dos", "url": "https://static.fnac-static.com/multimedia/Images/FR/NR/7e/1b/8f/6429398/1508-1/tsp20231219092644/Motorola-Moto-G15-6-72-Double-SIM-256-Go-Gris-back.jpg"}
-    ],
-    "marque": "Motorola",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/Smartphone-Motorola-Moto-G15-6-72-Double-SIM-256-Go-Gris/a21144204",
-        "price": 104.99
-      }
-    ]
-  },
-  {
-    "name": "Smartphone Xiaomi Redmi Note 14 Pro+ 5G 512 Go",
-    "desc": "Modèle haut de la gamme Redmi Note 14, stockage élevé, bonne performance, adapté à un usage intensif.", 
-    "moyenne_price": 402.00,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Redmi Note 14 Pro+ 5G front", "url": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-14-pro-5g/image/white-front.png"},
-      {"title": "Redmi Note 14 Pro+ 5G back", "url": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-14-pro-5g/image/white-back.png"}
-    ],
-    "marque": "Xiaomi",
-    "categorie": "smartphone",
-    "vendeurs": [
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com",
-        "price": 402.00
-      }
-    ]
-  },
-   {
-    "name": "Samsung Galaxy Tab S6 Lite 2024",
-    "desc": "Tablette Android 10.4'' avec stylet S-Pen, idéale pour multimédia et prise de notes.",
-    "moyenne_price": 259.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Galaxy Tab S6 Lite 01", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/sm-p613nzaaeub/gallery/fr-galaxy-tab-s6-lite-2024-01.jpg"},
-      {"title": "Galaxy Tab S6 Lite 02", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/sm-p613nzaaeub/gallery/fr-galaxy-tab-s6-lite-2024-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Excellente tablette, fluide.", "note": 5}],
-        "url": "https://www.amazon.fr/dp/B0CXYZS6LITE",
-        "price": 269.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Super pour le travail.", "note": 4.5}],
-        "url": "https://www.fnac.com/tab-s6-lite-2024",
-        "price": 249.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Très bon rapport qualité/prix.", "note": 4.7}],
-        "url": "https://www.darty.com/tab-s6-lite-2024",
-        "price": 259.99
-      }
-    ]
-  },
-  {
-    "name": "Apple iPad 10.9'' 2024",
-    "desc": "iPad 10e génération avec écran Liquid Retina 10.9'' et puce A14.",
-    "moyenne_price": 419.99,
-    "moyenne_stars": 4.8,
-    "picture": [
-      {"title": "iPad 2024 01", "url": "https://store.storeimages.cdn-apple.com/ipad-2024-01.jpg"},
-      {"title": "iPad 2024 02", "url": "https://store.storeimages.cdn-apple.com/ipad-2024-02.jpg"}
-    ],
-    "marque": "Apple",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Très fluide, parfait pour l’école.", "note": 5}],
-        "url": "https://www.amazon.fr/dp/B0IPAD2024",
-        "price": 429.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Qualité Apple au top.", "note": 4.8}],
-        "url": "https://www.fnac.com/ipad-2024",
-        "price": 399.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Super écran!", "note": 4.7}],
-        "url": "https://www.darty.com/ipad-2024",
-        "price": 429.99
-      }
-    ]
-  },
-  {
-    "name": "Xiaomi Redmi Pad SE",
-    "desc": "Tablette Android 11'' très abordable avec écran 90 Hz.",
-    "moyenne_price": 149.99,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "Redmi Pad SE 01", "url": "https://i01.appmifile.com/redmi-pad-se-01.jpg"},
-      {"title": "Redmi Pad SE 02", "url": "https://i01.appmifile.com/redmi-pad-se-02.jpg"}
-    ],
-    "marque": "Xiaomi",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Bonne tablette pour le prix.", "note": 4.5}],
-        "url": "https://www.amazon.fr/dp/B0REDMISE",
-        "price": 159.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Très fluide.", "note": 4.8}],
-        "url": "https://www.fnac.com/redmi-pad-se",
-        "price": 139.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Excellent rapport qualité/prix.", "note": 4.6}],
-        "url": "https://www.darty.com/redmi-pad-se",
-        "price": 149.99
-      }
-    ]
-  },
-  {
-    "name": "Samsung Galaxy Tab A9",
-    "desc": "Tablette Android 8.7'' compacte et légère.",
-    "moyenne_price": 159.99,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Galaxy Tab A9 01", "url": "https://images.samsung.com/tab-a9-01.jpg"},
-      {"title": "Galaxy Tab A9 02", "url": "https://images.samsung.com/tab-a9-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Très maniable.", "note": 4.6}],
-        "url": "https://www.amazon.fr/dp/B0TAB-A9",
-        "price": 169.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Bonne pour les enfants.", "note": 4.4}],
-        "url": "https://www.fnac.com/tab-a9",
-        "price": 149.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Fait le job.", "note": 4.5}],
-        "url": "https://www.darty.com/tab-a9",
-        "price": 159.99
-      }
-    ]
-  },
-
-  {
-    "name": "Lenovo Tab M10 Gen 3",
-    "desc": "Tablette 10.1'' Android idéale pour films et navigation.",
-    "moyenne_price": 179.99,
-    "moyenne_stars": 4.4,
-    "picture": [
-      {"title": "Lenovo M10 G3 01", "url": "https://p4-ofp.static.lenovo.com/tab-m10-g3-01.jpg"},
-      {"title": "Lenovo M10 G3 02", "url": "https://p4-ofp.static.lenovo.com/tab-m10-g3-02.jpg"}
-    ],
-    "marque": "Lenovo",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Très équilibrée.", "note": 4.5}],
-        "url": "https://www.amazon.fr/dp/B0LENM10G3",
-        "price": 189.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Bonne autonomie.", "note": 4.3}],
-        "url": "https://www.fnac.com/lenovo-tab-m10-g3",
-        "price": 169.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Bon son et écran.", "note": 4.4}],
-        "url": "https://www.darty.com/lenovo-tab-m10-g3",
-        "price": 179.99
-      }
-    ]
-  },
-
-  {
-    "name": "Huawei MatePad 11",
-    "desc": "Tablette 120 Hz performante pour multimédia et travail.",
-    "moyenne_price": 319.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "MatePad 11 01", "url": "https://consumer-img.huawei.com/matepad11-01.jpg"},
-      {"title": "MatePad 11 02", "url": "https://consumer-img.huawei.com/matepad11-02.jpg"}
-    ],
-    "marque": "Huawei",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Très fluide en 120 Hz.", "note": 4.8}],
-        "url": "https://www.amazon.fr/dp/B0MATEPAD11",
-        "price": 329.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Bonne qualité d’écran.", "note": 4.6}],
-        "url": "https://www.fnac.com/huawei-matepad-11",
-        "price": 309.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Très performante.", "note": 4.7}],
-        "url": "https://www.darty.com/huawei-matepad-11",
-        "price": 319.99
-      }
-    ]
-  },
-
-  {
-    "name": "Apple iPad Mini 6",
-    "desc": "Tablette compacte 8.3'' très puissante.",
-    "moyenne_price": 559.99,
-    "moyenne_stars": 4.9,
-    "picture": [
-      {"title": "iPad Mini 6 01", "url": "https://store.storeimages.cdn-apple.com/ipad-mini6-01.jpg"},
-      {"title": "iPad Mini 6 02", "url": "https://store.storeimages.cdn-apple.com/ipad-mini6-02.jpg"}
-    ],
-    "marque": "Apple",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Format parfait.", "note": 5}],
-        "url": "https://www.amazon.fr/dp/B0IPADMINI6",
-        "price": 569.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Très puissant.", "note": 4.9}],
-        "url": "https://www.fnac.com/ipad-mini-6",
-        "price": 549.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Idéal pour les déplacements.", "note": 4.8}],
-        "url": "https://www.darty.com/ipad-mini-6",
-        "price": 559.99
-      }
-    ]
-  },
-
-  {
-    "name": "Samsung Galaxy Tab S9 FE",
-    "desc": "Tablette 10.9'' haut de gamme FE, compatible S-Pen.",
-    "moyenne_price": 449.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Tab S9 FE 01", "url": "https://images.samsung.com/tab-s9-fe-01.jpg"},
-      {"title": "Tab S9 FE 02", "url": "https://images.samsung.com/tab-s9-fe-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Très belle tablette.", "note": 4.8}],
-        "url": "https://www.amazon.fr/dp/B0S9FE2024",
-        "price": 459.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Bonne alternative à l’iPad.", "note": 4.7}],
-        "url": "https://www.fnac.com/tab-s9-fe",
-        "price": 439.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Excellent écran.", "note": 4.7}],
-        "url": "https://www.darty.com/tab-s9-fe",
-        "price": 449.99
-      }
-    ]
-  },
-
-  {
-    "name": "Lenovo Tab P12",
-    "desc": "Grande tablette 12.7'' parfaite pour films et productivité.",
-    "moyenne_price": 329.99,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Tab P12 01", "url": "https://lenovo.com/tab-p12-01.jpg"},
-      {"title": "Tab P12 02", "url": "https://lenovo.com/tab-p12-02.jpg"}
-    ],
-    "marque": "Lenovo",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Grand écran immersif.", "note": 4.6}],
-        "url": "https://www.amazon.fr/dp/B0TABP12",
-        "price": 339.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Très bonne autonomie.", "note": 4.5}],
-        "url": "https://www.fnac.com/lenovo-tab-p12",
-        "price": 319.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Très bonne qualité.", "note": 4.4}],
-        "url": "https://www.darty.com/lenovo-tab-p12",
-        "price": 329.99
-      }
-    ]
-  },
-
-  {
-    "name": "Amazon Fire HD 10 (2023)",
-    "desc": "Tablette abordable 10.1'' optimisée pour Amazon Prime.",
-    "moyenne_price": 129.99,
-    "moyenne_stars": 4.3,
-    "picture": [
-      {"title": "Fire HD 10 01", "url": "https://m.media-amazon.com/firehd10-01.jpg"},
-      {"title": "Fire HD 10 02", "url": "https://m.media-amazon.com/firehd10-02.jpg"}
-    ],
-    "marque": "Amazon",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Bon rapport qualité/prix.", "note": 4.4}],
-        "url": "https://www.amazon.fr/dp/B0FIREHD10",
-        "price": 129.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Idéal pour les vidéos.", "note": 4.2}],
-        "url": "https://www.fnac.com/fire-hd-10",
-        "price": 129.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Simple mais efficace.", "note": 4.3}],
-        "url": "https://www.darty.com/fire-hd-10",
-        "price": 129.99
-      }
-    ]
-  },
     {
-    "name": "Samsung Galaxy Tab S6 Lite 2024",
-    "desc": "Tablette Android 10.4'' avec stylet S-Pen, idéale pour multimédia et prise de notes.",
-    "moyenne_price": 259.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Galaxy Tab S6 Lite 01", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/sm-p613nzaaeub/gallery/fr-galaxy-tab-s6-lite-2024-01.jpg"},
-      {"title": "Galaxy Tab S6 Lite 02", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/sm-p613nzaaeub/gallery/fr-galaxy-tab-s6-lite-2024-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Excellente tablette, fluide.", "note": 5}],
-        "url": "https://www.amazon.fr/dp/B0CXYZS6LITE",
-        "price": 269.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Super pour le travail.", "note": 4.5}],
-        "url": "https://www.fnac.com/tab-s6-lite-2024",
-        "price": 249.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Très bon rapport qualité/prix.", "note": 4.7}],
-        "url": "https://www.darty.com/tab-s6-lite-2024",
-        "price": 259.99
-      }
-    ]
-  },
-  {
-    "name": "Apple iPad 10.9'' 2024",
-    "desc": "iPad 10e génération avec écran Liquid Retina 10.9'' et puce A14.",
-    "moyenne_price": 419.99,
-    "moyenne_stars": 4.8,
-    "picture": [
-      {"title": "iPad 2024 01", "url": "https://store.storeimages.cdn-apple.com/ipad-2024-01.jpg"},
-      {"title": "iPad 2024 02", "url": "https://store.storeimages.cdn-apple.com/ipad-2024-02.jpg"}
-    ],
-    "marque": "Apple",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Très fluide, parfait pour l’école.", "note": 5}],
-        "url": "https://www.amazon.fr/dp/B0IPAD2024",
-        "price": 429.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Qualité Apple au top.", "note": 4.8}],
-        "url": "https://www.fnac.com/ipad-2024",
-        "price": 399.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Super écran!", "note": 4.7}],
-        "url": "https://www.darty.com/ipad-2024",
-        "price": 429.99
-      }
-    ]
-  },
-  {
-    "name": "Xiaomi Redmi Pad SE",
-    "desc": "Tablette Android 11'' très abordable avec écran 90 Hz.",
-    "moyenne_price": 149.99,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "Redmi Pad SE 01", "url": "https://i01.appmifile.com/redmi-pad-se-01.jpg"},
-      {"title": "Redmi Pad SE 02", "url": "https://i01.appmifile.com/redmi-pad-se-02.jpg"}
-    ],
-    "marque": "Xiaomi",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Bonne tablette pour le prix.", "note": 4.5}],
-        "url": "https://www.amazon.fr/dp/B0REDMISE",
-        "price": 159.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Très fluide.", "note": 4.8}],
-        "url": "https://www.fnac.com/redmi-pad-se",
-        "price": 139.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Excellent rapport qualité/prix.", "note": 4.6}],
-        "url": "https://www.darty.com/redmi-pad-se",
-        "price": 149.99
-      }
-    ]
-  },
-  {
-    "name": "Samsung Galaxy Tab A9",
-    "desc": "Tablette Android 8.7'' compacte et légère.",
-    "moyenne_price": 159.99,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Galaxy Tab A9 01", "url": "https://images.samsung.com/tab-a9-01.jpg"},
-      {"title": "Galaxy Tab A9 02", "url": "https://images.samsung.com/tab-a9-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Très maniable.", "note": 4.6}],
-        "url": "https://www.amazon.fr/dp/B0TAB-A9",
-        "price": 169.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Bonne pour les enfants.", "note": 4.4}],
-        "url": "https://www.fnac.com/tab-a9",
-        "price": 149.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Fait le job.", "note": 4.5}],
-        "url": "https://www.darty.com/tab-a9",
-        "price": 159.99
-      }
-    ]
-  },
-
-  {
-    "name": "Lenovo Tab M10 Gen 3",
-    "desc": "Tablette 10.1'' Android idéale pour films et navigation.",
-    "moyenne_price": 179.99,
-    "moyenne_stars": 4.4,
-    "picture": [
-      {"title": "Lenovo M10 G3 01", "url": "https://p4-ofp.static.lenovo.com/tab-m10-g3-01.jpg"},
-      {"title": "Lenovo M10 G3 02", "url": "https://p4-ofp.static.lenovo.com/tab-m10-g3-02.jpg"}
-    ],
-    "marque": "Lenovo",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Très équilibrée.", "note": 4.5}],
-        "url": "https://www.amazon.fr/dp/B0LENM10G3",
-        "price": 189.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Bonne autonomie.", "note": 4.3}],
-        "url": "https://www.fnac.com/lenovo-tab-m10-g3",
-        "price": 169.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Bon son et écran.", "note": 4.4}],
-        "url": "https://www.darty.com/lenovo-tab-m10-g3",
-        "price": 179.99
-      }
-    ]
-  },
-
-  {
-    "name": "Huawei MatePad 11",
-    "desc": "Tablette 120 Hz performante pour multimédia et travail.",
-    "moyenne_price": 319.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "MatePad 11 01", "url": "https://consumer-img.huawei.com/matepad11-01.jpg"},
-      {"title": "MatePad 11 02", "url": "https://consumer-img.huawei.com/matepad11-02.jpg"}
-    ],
-    "marque": "Huawei",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Très fluide en 120 Hz.", "note": 4.8}],
-        "url": "https://www.amazon.fr/dp/B0MATEPAD11",
-        "price": 329.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Bonne qualité d’écran.", "note": 4.6}],
-        "url": "https://www.fnac.com/huawei-matepad-11",
-        "price": 309.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Très performante.", "note": 4.7}],
-        "url": "https://www.darty.com/huawei-matepad-11",
-        "price": 319.99
-      }
-    ]
-  },
-
-  {
-    "name": "Apple iPad Mini 6",
-    "desc": "Tablette compacte 8.3'' très puissante.",
-    "moyenne_price": 559.99,
-    "moyenne_stars": 4.9,
-    "picture": [
-      {"title": "iPad Mini 6 01", "url": "https://store.storeimages.cdn-apple.com/ipad-mini6-01.jpg"},
-      {"title": "iPad Mini 6 02", "url": "https://store.storeimages.cdn-apple.com/ipad-mini6-02.jpg"}
-    ],
-    "marque": "Apple",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Format parfait.", "note": 5}],
-        "url": "https://www.amazon.fr/dp/B0IPADMINI6",
-        "price": 569.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Très puissant.", "note": 4.9}],
-        "url": "https://www.fnac.com/ipad-mini-6",
-        "price": 549.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Idéal pour les déplacements.", "note": 4.8}],
-        "url": "https://www.darty.com/ipad-mini-6",
-        "price": 559.99
-      }
-    ]
-  },
-
-  {
-    "name": "Samsung Galaxy Tab S9 FE",
-    "desc": "Tablette 10.9'' haut de gamme FE, compatible S-Pen.",
-    "moyenne_price": 449.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Tab S9 FE 01", "url": "https://images.samsung.com/tab-s9-fe-01.jpg"},
-      {"title": "Tab S9 FE 02", "url": "https://images.samsung.com/tab-s9-fe-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Très belle tablette.", "note": 4.8}],
-        "url": "https://www.amazon.fr/dp/B0S9FE2024",
-        "price": 459.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Bonne alternative à l’iPad.", "note": 4.7}],
-        "url": "https://www.fnac.com/tab-s9-fe",
-        "price": 439.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Excellent écran.", "note": 4.7}],
-        "url": "https://www.darty.com/tab-s9-fe",
-        "price": 449.99
-      }
-    ]
-  },
-
-  {
-    "name": "Lenovo Tab P12",
-    "desc": "Grande tablette 12.7'' parfaite pour films et productivité.",
-    "moyenne_price": 329.99,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Tab P12 01", "url": "https://lenovo.com/tab-p12-01.jpg"},
-      {"title": "Tab P12 02", "url": "https://lenovo.com/tab-p12-02.jpg"}
-    ],
-    "marque": "Lenovo",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Grand écran immersif.", "note": 4.6}],
-        "url": "https://www.amazon.fr/dp/B0TABP12",
-        "price": 339.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Très bonne autonomie.", "note": 4.5}],
-        "url": "https://www.fnac.com/lenovo-tab-p12",
-        "price": 319.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Très bonne qualité.", "note": 4.4}],
-        "url": "https://www.darty.com/lenovo-tab-p12",
-        "price": 329.99
-      }
-    ]
-  },
-
-  {
-    "name": "Amazon Fire HD 10 (2023)",
-    "desc": "Tablette abordable 10.1'' optimisée pour Amazon Prime.",
-    "moyenne_price": 129.99,
-    "moyenne_stars": 4.3,
-    "picture": [
-      {"title": "Fire HD 10 01", "url": "https://m.media-amazon.com/firehd10-01.jpg"},
-      {"title": "Fire HD 10 02", "url": "https://m.media-amazon.com/firehd10-02.jpg"}
-    ],
-    "marque": "Amazon",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "avis": [{"content": "Bon rapport qualité/prix.", "note": 4.4}],
-        "url": "https://www.amazon.fr/dp/B0FIREHD10",
-        "price": 129.99
-      },
-      {
-        "vendeur": "Fnac",
-        "avis": [{"content": "Idéal pour les vidéos.", "note": 4.2}],
-        "url": "https://www.fnac.com/fire-hd-10",
-        "price": 129.99
-      },
-      {
-        "vendeur": "Darty",
-        "avis": [{"content": "Simple mais efficace.", "note": 4.3}],
-        "url": "https://www.darty.com/fire-hd-10",
-        "price": 129.99
-      }
-    ]
-  },  {
-    "name": "Samsung Galaxy Tab S10 Lite 10.9\"",
-    "desc": "Tablette Android 10.9'', écran AMOLED, bon compromis performance / portabilité.", 
-    "moyenne_price": 299.99,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "Galaxy Tab S10 Lite face", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/galaxy-tab-s10-lite-sm-x700/gallery/fr-galaxy-tab-s10-lite-sm-x700-sm-x700nzsedef-530757600?$730_584_PNG$"},
-      {"title": "Galaxy Tab S10 Lite dos", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/galaxy-tab-s10-lite-sm-x700/gallery/fr-galaxy-tab-s10-lite-sm-x700-sm-x700nzsedef-530757602?$730_584_PNG$"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "url": "https://www.amazon.fr/dp/B0S10LITE",
-        "price": 299.99
-      },
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/galaxy-tab-s10-lite",
-        "price": 289.99
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com/galaxy-tab-s10-lite",
-        "price": 319.99
-      }
-    ]
-  },
-  {
-    "name": "Amazon Fire HD 10 (2023) 10.1\"",
-    "desc": "Tablette abordable 10.1\", pratique pour streaming, lecture, navigation web.", 
-    "moyenne_price": 179.99,
-    "moyenne_stars": 4.3,
-    "picture": [
-      {"title": "Fire HD 10 2023 face", "url": "https://m.media-amazon.com/images/I/61kOOkIBTBL._AC_SL1500_.jpg"},
-      {"title": "Fire HD 10 2023 dos", "url": "https://m.media-amazon.com/images/I/61kOOkIBTBL._AC_SL1500_.jpg"}
-    ],
-    "marque": "Amazon",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "url": "https://www.amazon.fr/dp/B0FHD10023",
-        "price": 179.99
-      },
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/fire-hd-10-2023",
-        "price": 179.99
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com/fire-hd-10-2023",
-        "price": 179.99
-      }
-    ]
-  },
-  {
-    "name": "Lenovo Tab M10 (2024) 10.1\"",
-    "desc": "Tablette Android 10.1'', bon choix milieu de gamme pour navigation, vidéos, apps.", 
-    "moyenne_price": 159.99,
-    "moyenne_stars": 4.4,
-    "picture": [
-      {"title": "Lenovo Tab M10 face", "url": "https://static.darty.com/images/products/2/5/9/6/0/600x600/LN-TABM10-24/Lenovo-Tab-M10-10-1-Noir.jpg"},
-      {"title": "Lenovo Tab M10 dos", "url": "https://static.darty.com/images/products/2/5/9/6/0/600x600/LN-TABM10-24/Lenovo-Tab-M10-10-1-Noir-back.jpg"}
-    ],
-    "marque": "Lenovo",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "url": "https://www.amazon.fr/dp/B0LTABM10",
-        "price": 169.99
-      },
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/lenovo-tab-m10",
-        "price": 149.99
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com/lenovo-tab-m10",
-        "price": 159.99
-      }
-    ]
-  },
-  {
-    "name": "Huawei MatePad 11 2023",
-    "desc": "Tablette 11'', bon écran et performances correctes, adaptée à un usage polyvalent.", 
-    "moyenne_price": 329.99,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "MatePad 11 face", "url": "https://consumer-img.huawei.com/matepad11-01.jpg"},
-      {"title": "MatePad 11 dos", "url": "https://consumer-img.huawei.com/matepad11-02.jpg"}
-    ],
-    "marque": "Huawei",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "url": "https://www.amazon.fr/dp/B0HMATEPAD11",
-        "price": 339.99
-      },
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/huawei-matepad-11",
-        "price": 319.99
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com/huawei-matepad-11",
-        "price": 329.99
-      }
-    ]
-  },
-  {
-    "name": "Samsung Galaxy Tab A8 10.5\"",
-    "desc": "Tablette 10.5'', bon rapport qualité/prix pour navigation et multimédia.", 
-    "moyenne_price": 214.99,
-    "moyenne_stars": 4.4,
-    "picture": [
-      {"title": "Galaxy Tab A8 01", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/galaxy-tab-a8-sm-x200/gallery/fr-galaxy-tab-a8-sm-x200-sm-x200nzskfra-530757112?$730_584_PNG$"},
-      {"title": "Galaxy Tab A8 02", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/galaxy-tab-a8-sm-x200/gallery/fr-galaxy-tab-a8-sm-x200-sm-x200nzskfra-530757114?$730_584_PNG$"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "url": "https://www.amazon.fr/dp/B0SHOTABA8",
-        "price": 219.99
-      },
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/galaxy-tab-a8",
-        "price": 209.99
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com/galaxy-tab-a8",
-        "price": 214.99
-      }
-    ]
-  },
-  {
-    "name": "Samsung Galaxy Tab A9+ 11.0\"",
-    "desc": "Tablette 11'', bon équilibre pour streaming, lecture et usage quotidien.", 
-    "moyenne_price": 189.99,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Galaxy Tab A9+ face", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/galaxy-tab-a9-plus-sm-x220/gallery/fr-galaxy-tab-a9-plus-sm-x220-sm-x220nzkhfra-530757232?$730_584_PNG$"},
-      {"title": "Galaxy Tab A9+ dos", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/galaxy-tab-a9-plus-sm-x220/gallery/fr-galaxy-tab-a9-plus-sm-x220-sm-x220nzkhfra-530757234?$730_584_PNG$"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "url": "https://www.amazon.fr/dp/B0GS9A9PLUS",
-        "price": 199.99
-      },
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/galaxy-tab-a9-plus",
-        "price": 179.99
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com/galaxy-tab-a9-plus",
-        "price": 189.99
-      }
-    ]
-  },
-  {
-    "name": "Xiaomi Pad 7 Pro 12.4\"",
-    "desc": "Grande tablette Android 12.4'', adaptée pour multimédia, productivité et dessin.", 
-    "moyenne_price": 355.00,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "Xiaomi Pad 7 Pro face", "url": "https://i01.appmifile.com/webfile/globalimg/products/pc/xiaomi-pad-7-pro/image/front.png"},
-      {"title": "Xiaomi Pad 7 Pro dos", "url": "https://i01.appmifile.com/webfile/globalimg/products/pc/xiaomi-pad-7-pro/image/back.png"}
-    ],
-    "marque": "Xiaomi",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "url": "https://www.amazon.fr/dp/B0XPAD7PRO",
-        "price": 359.99
-      },
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/xiaomi-pad-7-pro",
-        "price": 349.99
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com/xiaomi-pad-7-pro",
-        "price": 355.00
-      }
-    ]
-  },
-  {
-    "name": "Samsung Galaxy Tab S9 FE 10.9\"",
-    "desc": "Tablette 10.9'', modèle FE orienté polyvalence, bonne performance pour films, travail, surf.", 
-    "moyenne_price": 449.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Galaxy Tab S9 FE 01", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/galaxy-tab-s9-fe-sm-x640/gallery/fr-galaxy-tab-s9-fe-sm-x640-sm-x640nzadeub-530757750?$730_584_PNG$"},
-      {"title": "Galaxy Tab S9 FE 02", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/galaxy-tab-s9-fe-sm-x640/gallery/fr-galaxy-tab-s9-fe-sm-x640-sm-x640nzadeub-530757752?$730_584_PNG$"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "url": "https://www.amazon.fr/dp/B0TS9S9FE",
-        "price": 459.99
-      },
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/galaxy-tab-s9-fe",
-        "price": 439.99
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com/galaxy-tab-s9-fe",
-        "price": 449.99
-      }
-    ]
-  },
-  {
-    "name": "Microsoft Surface Go 4 10.5\" (WiFi)",
-    "desc": "Mini-PC portable / tablette hybride, Windows 11, pratique pour bureautique et mobilité.", 
-    "moyenne_price": 549.99,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "Surface Go 4 face", "url": "https://cdn2.windowsreport.com/wp-content/uploads/2025/02/surface-go-4-1.jpg"},
-      {"title": "Surface Go 4 dos", "url": "https://cdn2.windowsreport.com/wp-content/uploads/2025/02/surface-go-4-2.jpg"}
-    ],
-    "marque": "Microsoft",
-    "categorie": "tablette",
-    "vendeurs": [
-      {
-        "vendeur": "Amazon",
-        "url": "https://www.amazon.fr/dp/B0MSGO4",
-        "price": 559.99
-      },
-      {
-        "vendeur": "Fnac",
-        "url": "https://www.fnac.com/surface-go-4",
-        "price": 529.99
-      },
-      {
-        "vendeur": "Darty",
-        "url": "https://www.darty.com/surface-go-4",
-        "price": 549.99
-      }
-    ]
-  },
-   {
-    "name": "Samsung QLED Q60B 55\"",
-    "desc": "Téléviseur QLED 4K UHD 55\", idéal pour films et gaming avec couleurs vives et contraste élevé.",
-    "moyenne_price": 706.30,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Samsung Q60B 01", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/q60b/gallery/fr-qled-q60b-01.jpg"},
-      {"title": "Samsung Q60B 02", "url": "https://images.samsung.com/is/image/samsung/p6pim/fr/q60b/gallery/fr-qled-q60b-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09Q60B", "price": 719.99, "avis":[{"content":"Excellente image","note":4.5}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/tv-samsung-q60b-55", "price": 699.99, "avis":[{"content":"Couleurs très réalistes","note":4.5}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/tv-samsung-q60b-55", "price": 699.99, "avis":[{"content":"Très bon rendu HDR","note":4.5}]}
-    ]
-  },
-  {
-    "name": "LG OLED C2 55\"",
-    "desc": "Téléviseur OLED 4K 55\", contraste infini et couleurs parfaites, parfait pour cinéma à la maison.",
-    "moyenne_price": 1199.99,
-    "moyenne_stars": 4.8,
-    "picture": [
-      {"title": "LG OLED C2 01", "url": "https://www.lg.com/fr/images/tv/oled-c2-55-01.jpg"},
-      {"title": "LG OLED C2 02", "url": "https://www.lg.com/fr/images/tv/oled-c2-55-02.jpg"}
-    ],
-    "marque": "LG",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09OC2", "price": 1229.99, "avis":[{"content":"Image parfaite","note":4.9}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/lg-oled-c2-55", "price": 1179.99, "avis":[{"content":"Contraste incroyable","note":4.8}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/lg-oled-c2-55", "price": 1210.00, "avis":[{"content":"Excellent pour films","note":4.7}]}
-    ]
-  },
-  {
-    "name": "Sony Bravia XR A80K 55\"",
-    "desc": "TV OLED 4K avec processeur Cognitive XR pour des couleurs réalistes et un son immersif.",
-    "moyenne_price": 1299.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Sony A80K 01", "url": "https://www.sony.com/fr/images/bravia-a80k-55-01.jpg"},
-      {"title": "Sony A80K 02", "url": "https://www.sony.com/fr/images/bravia-a80k-55-02.jpg"}
-    ],
-    "marque": "Sony",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09A80K", "price": 1329.99, "avis":[{"content":"Super image","note":4.7}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/sony-a80k-55", "price": 1279.99, "avis":[{"content":"Son et image au top","note":4.7}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/sony-a80k-55", "price": 1310.00, "avis":[{"content":"Très bon pour cinéma","note":4.7}]}
-    ]
-  },
-  {
-    "name": "Samsung QLED Q70B 65\"",
-    "desc": "Téléviseur QLED 65\", 4K UHD, bon pour gaming et sport avec couleurs éclatantes et fluidité 120Hz.",
-    "moyenne_price": 999.99,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "Samsung Q70B 01", "url": "https://images.samsung.com/is/image/samsung/q70b-65-01.jpg"},
-      {"title": "Samsung Q70B 02", "url": "https://images.samsung.com/is/image/samsung/q70b-65-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09Q70B", "price": 1029.99, "avis":[{"content":"Très fluide","note":4.6}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/samsung-q70b-65", "price": 979.99, "avis":[{"content":"Couleurs vives","note":4.6}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/samsung-q70b-65", "price": 999.99, "avis":[{"content":"Excellent TV pour sport","note":4.6}]}
-    ]
-  },
-  {
-    "name": "LG OLED B2 65\"",
-    "desc": "Téléviseur OLED 65\", parfait pour cinéma et séries avec noirs profonds et fluidité d'image.",
-    "moyenne_price": 1099.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "LG OLED B2 01", "url": "https://www.lg.com/fr/images/tv/oled-b2-65-01.jpg"},
-      {"title": "LG OLED B2 02", "url": "https://www.lg.com/fr/images/tv/oled-b2-65-02.jpg"}
-    ],
-    "marque": "LG",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09OB2", "price": 1129.99, "avis":[{"content":"Très bon rendu noir","note":4.7}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/lg-oled-b2-65", "price": 1079.99, "avis":[{"content":"Image superbe","note":4.7}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/lg-oled-b2-65", "price": 1110.00, "avis":[{"content":"Idéal pour cinéma","note":4.7}]}
-    ]
-  },
-  {
-    "name": "Sony Bravia X90K 55\"",
-    "desc": "TV LED 4K UHD 55\", idéale pour gaming avec input lag faible et technologie HDR.",
-    "moyenne_price": 849.99,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Sony X90K 01", "url": "https://www.sony.com/fr/images/bravia-x90k-55-01.jpg"},
-      {"title": "Sony X90K 02", "url": "https://www.sony.com/fr/images/bravia-x90k-55-02.jpg"}
-    ],
-    "marque": "Sony",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09X90K", "price": 879.99, "avis":[{"content":"Très bon pour jeux","note":4.5}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/sony-x90k-55", "price": 829.99, "avis":[{"content":"Image très nette","note":4.5}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/sony-x90k-55", "price": 849.99, "avis":[{"content":"Excellent TV gaming","note":4.5}]}
-    ]
-  },
-  {
-    "name": "Samsung Neo QLED QN90B 65\"",
-    "desc": "Téléviseur Neo QLED 4K 65\", technologie mini-LED pour contraste et luminosité élevées.",
-    "moyenne_price": 1599.99,
-    "moyenne_stars": 4.8,
-    "picture": [
-      {"title": "Samsung QN90B 01", "url": "https://images.samsung.com/is/image/samsung/qn90b-65-01.jpg"},
-      {"title": "Samsung QN90B 02", "url": "https://images.samsung.com/is/image/samsung/qn90b-65-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B0QN90B", "price": 1629.99, "avis":[{"content":"Brillant et contrasté","note":4.8}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/samsung-qn90b-65", "price": 1579.99, "avis":[{"content":"Très lumineux","note":4.8}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/samsung-qn90b-65", "price": 1609.99, "avis":[{"content":"Qualité d’image incroyable","note":4.8}]}
-    ]
-  },
-  {
-    "name": "LG OLED G2 65\"",
-    "desc": "Téléviseur OLED 65\", design mural, qualité d’image premium et fluidité parfaite pour cinéma et gaming.",
-    "moyenne_price": 2099.99,
-    "moyenne_stars": 4.9,
-    "picture": [
-      {"title": "LG OLED G2 01", "url": "https://www.lg.com/fr/images/tv/oled-g2-65-01.jpg"},
-      {"title": "LG OLED G2 02", "url": "https://www.lg.com/fr/images/tv/oled-g2-65-02.jpg"}
-    ],
-    "marque": "LG",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09OG2", "price": 2129.99, "avis":[{"content":"Image incroyable","note":4.9}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/lg-oled-g2-65", "price": 2079.99, "avis":[{"content":"Cinéma maison parfait","note":4.9}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/lg-oled-g2-65", "price": 2090.00, "avis":[{"content":"Très satisfait","note":4.9}]}
-    ]
-  },
-  {
-    "name": "Sony Bravia A90J 65\"",
-    "desc": "Téléviseur OLED 65\", qualité d’image exceptionnelle et son immersif Acoustic Surface Audio+.",
-    "moyenne_price": 2399.99,
-    "moyenne_stars": 4.9,
-    "picture": [
-      {"title": "Sony A90J 01", "url": "https://www.sony.com/fr/images/bravia-a90j-65-01.jpg"},
-      {"title": "Sony A90J 02", "url": "https://www.sony.com/fr/images/bravia-a90j-65-02.jpg"}
-    ],
-    "marque": "Sony",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09A90J", "price": 2429.99, "avis":[{"content":"Image et son parfait","note":4.9}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/sony-a90j-65", "price": 2379.99, "avis":[{"content":"Expérience home cinéma","note":4.9}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/sony-a90j-65", "price": 2390.00, "avis":[{"content":"Très satisfait","note":4.9}]}
-    ]
-  },
-  {
-    "name": "Samsung QLED Q80B 55\"",
-    "desc": "Téléviseur QLED 4K UHD 55\" avec Direct Full Array pour un contraste amélioré, idéal pour films et gaming.",
-    "moyenne_price": 899.99,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "Samsung Q80B 01", "url": "https://images.samsung.com/is/image/samsung/q80b-55-01.jpg"},
-      {"title": "Samsung Q80B 02", "url": "https://images.samsung.com/is/image/samsung/q80b-55-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09Q80B", "price": 919.99, "avis":[{"content":"Image très nette","note":4.6}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/samsung-q80b-55", "price": 879.99, "avis":[{"content":"Couleurs éclatantes","note":4.6}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/samsung-q80b-55", "price": 899.99, "avis":[{"content":"Très bon contraste","note":4.6}]}
-    ]
-  },
-  {
-    "name": "LG OLED C2 65\"",
-    "desc": "Téléviseur OLED 65\" 4K UHD, contraste infini et couleurs parfaites, idéal cinéma et gaming.",
-    "moyenne_price": 1299.99,
-    "moyenne_stars": 4.8,
-    "picture": [
-      {"title": "LG OLED C2 65 01", "url": "https://www.lg.com/fr/images/tv/oled-c2-65-01.jpg"},
-      {"title": "LG OLED C2 65 02", "url": "https://www.lg.com/fr/images/tv/oled-c2-65-02.jpg"}
-    ],
-    "marque": "LG",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09OC2-65", "price": 1329.99, "avis":[{"content":"Image parfaite","note":4.8}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/lg-oled-c2-65", "price": 1279.99, "avis":[{"content":"Contraste incroyable","note":4.8}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/lg-oled-c2-65", "price": 1290.00, "avis":[{"content":"Excellent pour cinéma","note":4.8}]}
-    ]
-  },
-  {
-    "name": "Sony Bravia X90K 65\"",
-    "desc": "Téléviseur LED 4K UHD 65\" avec technologie HDR et faible input lag, parfait pour gaming et sport.",
-    "moyenne_price": 949.99,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "Sony X90K 65 01", "url": "https://www.sony.com/fr/images/bravia-x90k-65-01.jpg"},
-      {"title": "Sony X90K 65 02", "url": "https://www.sony.com/fr/images/bravia-x90k-65-02.jpg"}
-    ],
-    "marque": "Sony",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09X90K-65", "price": 979.99, "avis":[{"content":"Très bon pour jeux","note":4.6}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/sony-x90k-65", "price": 929.99, "avis":[{"content":"Image nette et fluide","note":4.6}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/sony-x90k-65", "price": 939.99, "avis":[{"content":"Parfait pour gaming","note":4.6}]}
-    ]
-  },
-  {
-    "name": "Samsung Neo QLED QN85B 55\"",
-    "desc": "Téléviseur Neo QLED 55\" 4K UHD, mini-LED pour une luminosité et un contraste améliorés.",
-    "moyenne_price": 1299.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Samsung QN85B 01", "url": "https://images.samsung.com/is/image/samsung/qn85b-55-01.jpg"},
-      {"title": "Samsung QN85B 02", "url": "https://images.samsung.com/is/image/samsung/qn85b-55-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B0QN85B", "price": 1329.99, "avis":[{"content":"Très lumineux","note":4.7}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/samsung-qn85b-55", "price": 1279.99, "avis":[{"content":"Contraste excellent","note":4.7}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/samsung-qn85b-55", "price": 1310.00, "avis":[{"content":"Qualité d'image premium","note":4.7}]}
-    ]
-  },
-  {
-    "name": "LG OLED G2 77\"",
-    "desc": "Téléviseur OLED 77\", design mural, couleurs et contraste exceptionnels pour cinéma et gaming.",
-    "moyenne_price": 2599.99,
-    "moyenne_stars": 4.9,
-    "picture": [
-      {"title": "LG OLED G2 77 01", "url": "https://www.lg.com/fr/images/tv/oled-g2-77-01.jpg"},
-      {"title": "LG OLED G2 77 02", "url": "https://www.lg.com/fr/images/tv/oled-g2-77-02.jpg"}
-    ],
-    "marque": "LG",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09OG2-77", "price": 2629.99, "avis":[{"content":"Image incroyable","note":4.9}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/lg-oled-g2-77", "price": 2579.99, "avis":[{"content":"Cinéma maison parfait","note":4.9}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/lg-oled-g2-77", "price": 2590.00, "avis":[{"content":"Très satisfait","note":4.9}]}
-    ]
-  },
-  {
-    "name": "Sony Bravia A80J 55\"",
-    "desc": "Téléviseur OLED 55\" 4K UHD, Acoustic Surface Audio+, idéal pour films avec son immersif.",
-    "moyenne_price": 1399.99,
-    "moyenne_stars": 4.8,
-    "picture": [
-      {"title": "Sony A80J 55 01", "url": "https://www.sony.com/fr/images/bravia-a80j-55-01.jpg"},
-      {"title": "Sony A80J 55 02", "url": "https://www.sony.com/fr/images/bravia-a80j-55-02.jpg"}
-    ],
-    "marque": "Sony",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09A80J", "price": 1429.99, "avis":[{"content":"Image et son parfait","note":4.8}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/sony-a80j-55", "price": 1379.99, "avis":[{"content":"Expérience home cinéma","note":4.8}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/sony-a80j-55", "price": 1390.00, "avis":[{"content":"Très satisfait","note":4.8}]}
-    ]
-  },
-  {
-    "name": "Samsung QLED QN90A 65\"",
-    "desc": "Neo QLED 65\", technologie mini-LED, parfait pour pièces lumineuses et contrastes élevés.",
-    "moyenne_price": 1799.99,
-    "moyenne_stars": 4.8,
-    "picture": [
-      {"title": "Samsung QN90A 65 01", "url": "https://images.samsung.com/is/image/samsung/qn90a-65-01.jpg"},
-      {"title": "Samsung QN90A 65 02", "url": "https://images.samsung.com/is/image/samsung/qn90a-65-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B0QN90A", "price": 1829.99, "avis":[{"content":"Très lumineux et contrasté","note":4.8}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/samsung-qn90a-65", "price": 1779.99, "avis":[{"content":"Qualité d’image superbe","note":4.8}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/samsung-qn90a-65", "price": 1790.00, "avis":[{"content":"Excellent pour salon lumineux","note":4.8}]}
-    ]
-  },
-  {
-    "name": "LG OLED C1 55\"",
-    "desc": "Téléviseur OLED 55\" 4K UHD, parfait pour cinéma, jeux et séries avec noirs profonds.",
-    "moyenne_price": 1149.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "LG OLED C1 55 01", "url": "https://www.lg.com/fr/images/tv/oled-c1-55-01.jpg"},
-      {"title": "LG OLED C1 55 02", "url": "https://www.lg.com/fr/images/tv/oled-c1-55-02.jpg"}
-    ],
-    "marque": "LG",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09OC1-55", "price": 1179.99, "avis":[{"content":"Image superbe","note":4.7}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/lg-oled-c1-55", "price": 1129.99, "avis":[{"content":"Contraste profond","note":4.7}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/lg-oled-c1-55", "price": 1140.00, "avis":[{"content":"Idéal pour cinéma","note":4.7}]}
-    ]
-  },
-  {
-    "name": "Sony Bravia X95K 75\"",
-    "desc": "Téléviseur LED 75\" 4K UHD, parfait pour salon spacieux avec couleurs précises et HDR puissant.",
-    "moyenne_price": 2499.99,
-    "moyenne_stars": 4.9,
-    "picture": [
-      {"title": "Sony X95K 75 01", "url": "https://www.sony.com/fr/images/bravia-x95k-75-01.jpg"},
-      {"title": "Sony X95K 75 02", "url": "https://www.sony.com/fr/images/bravia-x95k-75-02.jpg"}
-    ],
-    "marque": "Sony",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09X95K-75", "price": 2529.99, "avis":[{"content":"Super TV grand salon","note":4.9}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/sony-x95k-75", "price": 2479.99, "avis":[{"content":"Image impressionnante","note":4.9}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/sony-x95k-75", "price": 2490.00, "avis":[{"content":"Excellent pour cinéma maison","note":4.9}]}
-    ]
-  },
-  {
-    "name": "Samsung QLED Q80A 75\"",
-    "desc": "Téléviseur QLED 75\" 4K UHD avec technologie Direct Full Array pour un contraste amélioré et couleurs éclatantes.",
-    "moyenne_price": 1899.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Samsung Q80A 75 01", "url": "https://images.samsung.com/is/image/samsung/q80a-75-01.jpg"},
-      {"title": "Samsung Q80A 75 02", "url": "https://images.samsung.com/is/image/samsung/q80a-75-02.jpg"}
-    ],
-    "marque": "Samsung",
-    "categorie": "tv",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09Q80A-75", "price": 1929.99, "avis":[{"content":"Parfait pour salon grand","note":4.7}]},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/samsung-q80a-75", "price": 1879.99, "avis":[{"content":"Couleurs éclatantes","note":4.7}]},
-      {"vendeur": "Darty", "url": "https://www.darty.com/samsung-q80a-75", "price": 1890.00, "avis":[{"content":"Contraste excellent","note":4.7}]}
-    ]
-  },
-   {
-    "name": "Sony WH‑1000XM5",
-    "desc": "Casque sans fil à réduction de bruit active, confort premium, son de haute qualité, autonome ~30h.", 
-    "moyenne_price": 248.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Sony WH-1000XM5 01", "url": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg"},
-      {"title": "Sony WH-1000XM5 02", "url": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._AC_SL1500_.jpg"}
-    ],
-    "marque": "Sony",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B09Y2MYL5C", "price": 248.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/Casque-audio-a-reduction-de-bruit-Bluetooth-Sony-WH1000XM5-Noir/a16864769", "price": 279.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 279.99}
-    ]
-  },
-  {
-    "name": "Bose QuietComfort 45",
-    "desc": "Casque Bluetooth à réduction de bruit active, confort élevé, bon équilibre son, autonomie ~22 h.", 
-    "moyenne_price": 189.99,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Bose QC45 01", "url": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/quietcomfort_45/product_silo_images/QC45_No_Headband_Hero.psd/_jcr_content/renditions/cq5dam.web.320.320.png"},
-      {"title": "Bose QC45 02", "url": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/quietcomfort_45/product_silo_images/QC45_Back.psd/_jcr_content/renditions/cq5dam.web.320.320.png"}
-    ],
-    "marque": "Bose",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr", "price": 189.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/Casque-a-reduction-de-bruit-sans-fil-Bluetooth-Bose-QuietComfort-45-Noir/a16142754", "price": 189.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com/nav/achat/accessoires/casque_ecouteurs/casque_arceau/bose_qc45_noir.html", "price": 189.99}
-    ]
-  },
-  {
-    "name": "JBL Tune 770NC",
-    "desc": "Casque sans fil avec réduction de bruit abordable, bon son, autonomie longue (~50‑70 h) — bon rapport qualité/prix.", 
-    "moyenne_price": 64.00,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "JBL Tune 770NC 01", "url": "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw3ad842df/images/model/770NC/Black/770NC-Black-Front-Large.png"},
-      {"title": "JBL Tune 770NC 02", "url": "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw3ad842df/images/model/770NC/Black/770NC-Black-Side-Large.png"}
-    ],
-    "marque": "JBL",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr", "price": 64.00},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com", "price": 69.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 69.99}
-    ]
-  },
-  {
-    "name": "JBL Tune 520BT",
-    "desc": "Casque Bluetooth sans fil, léger et confortable, bonne autonomie (~57h), bonne qualité sonore pour usage quotidien.", 
-    "moyenne_price": 49.81,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "JBL Tune 520BT 01", "url": "https://images.jbl.com/tune520bt-01.png"},
-      {"title": "JBL Tune 520BT 02", "url": "https://images.jbl.com/tune520bt-02.png"}
-    ],
-    "marque": "JBL",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr", "price": 49.81},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/mp52995118", "price": 49.81},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 49.81}
-    ]
-  },
-  {
-    "name": "Sony WH‑CH520",
-    "desc": "Casque supra‑auriculaire sans fil, autonomie longue (~50h), bon son pour un usage quotidien modéré.", 
-    "moyenne_price": 34.99,
-    "moyenne_stars": 4.8,
-    "picture": [
-      {"title": "Sony WH-CH520 01", "url": "https://static.boulanger.com/images/products/1187808-1.jpg"},
-      {"title": "Sony WH-CH520 02", "url": "https://static.boulanger.com/images/products/1187808-2.jpg"}
-    ],
-    "marque": "Sony",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr", "price": 34.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com", "price": 34.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 34.99}
-    ]
-  },
-  {
-    "name": "Bose QuietComfort Ultra",
-    "desc": "Casque haut de gamme, réduction de bruit très efficace, son immersif, bon pour musique et cinéma.", 
-    "moyenne_price": 299.95,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "Bose QC Ultra 01", "url": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/quietcomfort_ultra/product_silo_images/QCUltra_Hero.psd/_jcr_content/renditions/cq5dam.web.320.320.png"},
-      {"title": "Bose QC Ultra 02", "url": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/quietcomfort_ultra/product_silo_images/QCUltra_Back.psd/_jcr_content/renditions/cq5dam.web.320.320.png"}
-    ],
-    "marque": "Bose",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr", "price": 299.95},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com", "price": 299.95},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 299.95}
-    ]
-  },
-  {
-    "name": "Marshall Major IV",
-    "desc": "Casque sans fil, autonomie longue (~80 h), son puissant et graves marqués, bon rapport qualité/prix.", 
-    "moyenne_price": 69.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Marshall Major IV 01", "url": "https://cdn.boulanger.com/images/products/1153425-1.jpg"},
-      {"title": "Marshall Major IV 02", "url": "https://cdn.boulanger.com/images/products/1153425-2.jpg"}
-    ],
-    "marque": "Marshall",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr", "price": 69.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com", "price": 69.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 69.99}
-    ]
-  },
-  {
-    "name": "Soundcore Space One",
-    "desc": "Casque Bluetooth avec réduction de bruit adaptative, bon son et bon rapport qualité/prix.", 
-    "moyenne_price": 69.00,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Soundcore Space One 01", "url": "https://www.android.com/images/space-one-01.jpg"},
-      {"title": "Soundcore Space One 02", "url": "https://www.android.com/images/space-one-02.jpg"}
-    ],
-    "marque": "Anker",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B0DWF6QCGX", "price": 69.00},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com", "price": 99.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 99.99}
-    ]
-  },
-  {
-    "name": "JBL Live 770NC",
-    "desc": "Casque supra‑auriculaire Bluetooth, réduction de bruit, bonne autonomie — bon compromis pour budget moyen.", 
-    "moyenne_price": 79.00,
-    "moyenne_stars": 4.4,
-    "picture": [
-      {"title": "JBL Live 770NC 01", "url": "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw3ad842df/images/model/770NC/Black/770NC-Black-Front-Large.png"},
-      {"title": "JBL Live 770NC 02", "url": "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw3ad842df/images/model/770NC/Black/770NC-Black-Side-Large.png"}
-    ],
-    "marque": "JBL",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr", "price": 79.00},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com", "price": 79.00},
-      {"vendeur": "Darty", "url": "https://this-is-placeholder-for-darty", "price": 79.00}
-    ]
-  },
+      "name": "Casque audio sans fil SONY Bluetooth à réduction de bruit WH-CH720N Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 79.99,
+      "picture": [
+        {
+          "title": "Casque audio sans fil SONY Bluetooth à réduction de bruit WH-CH720N Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/85/be/44/21282437/1540-1/tsp20250922175304/Casque-audio-sans-fil-SONY-Bluetooth-a-reduction-de-bruit-WH-CH720N-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-audio-sans-fil-SONY-Bluetooth-a-reduction-de-bruit-WH-CH720N-Noir/a17689644/w-4#omnsearchpos=1",
+          "price": 949
+        }
+      ]
+    },
     {
-    "name": "Beats Studio3 Wireless",
-    "desc": "Casque Bluetooth avec réduction de bruit active, son équilibré et design emblématique.",
-    "moyenne_price": 299.99,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "Beats Studio3 01", "url": "https://www.beatsbydre.com/content/dam/beats/web/product/studio3/studio3-black.jpg"},
-      {"title": "Beats Studio3 02", "url": "https://www.beatsbydre.com/content/dam/beats/web/product/studio3/studio3-black-side.jpg"}
-    ],
-    "marque": "Beats",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B00VJSGT3M", "price": 299.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/Beats-Studio3-Wireless-Noir", "price": 299.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 299.99}
-    ]
-  },
-  {
-    "name": "Sennheiser HD 450BT",
-    "desc": "Casque Bluetooth avec ANC, bon confort et autonomie longue (~30h).",
-    "moyenne_price": 179.99,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Sennheiser HD450BT 01", "url": "https://en-us.sennheiser.com/global-content/dam/Sennheiser/global/products/headphones/hd-450bt/hd450bt-01.png"},
-      {"title": "Sennheiser HD450BT 02", "url": "https://en-us.sennheiser.com/global-content/dam/Sennheiser/global/products/headphones/hd-450bt/hd450bt-02.png"}
-    ],
-    "marque": "Sennheiser",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B07V4NXLJ4", "price": 179.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/Sennheiser-HD-450BT", "price": 179.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 179.99}
-    ]
-  },
-  {
-    "name": "Bose Headphones 700",
-    "desc": "Casque premium avec ANC, son immersif et design élégant.",
-    "moyenne_price": 329.99,
-    "moyenne_stars": 4.7,
-    "picture": [
-      {"title": "Bose 700 01", "url": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/700/product_silo_images/700_Hero.png"},
-      {"title": "Bose 700 02", "url": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/700/product_silo_images/700_Back.png"}
-    ],
-    "marque": "Bose",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B07Q9MJKBV", "price": 329.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/Bose-700-Noir", "price": 329.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 329.99}
-    ]
-  },
-  {
-    "name": "JBL Club One",
-    "desc": "Casque Bluetooth premium avec ANC et basses puissantes.",
-    "moyenne_price": 249.99,
-    "moyenne_stars": 4.6,
-    "picture": [
-      {"title": "JBL Club One 01", "url": "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb57b9a8b/images/model/clubone/clubone-hero.png"},
-      {"title": "JBL Club One 02", "url": "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwb57b9a8b/images/model/clubone/clubone-back.png"}
-    ],
-    "marque": "JBL",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B07M9B2R5D", "price": 249.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/JBL-Club-One", "price": 249.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 249.99}
-    ]
-  },
-  {
-    "name": "AKG N700NC M2",
-    "desc": "Casque Bluetooth à ANC, confortable et son clair, adapté à la musique et au télétravail.",
-    "moyenne_price": 199.99,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "AKG N700NC 01", "url": "https://www.akg.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwef8c74e3/images/product/N700NC_M2/N700NC_M2_Hero.png"},
-      {"title": "AKG N700NC 02", "url": "https://www.akg.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwef8c74e3/images/product/N700NC_M2/N700NC_M2_Side.png"}
-    ],
-    "marque": "AKG",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B07X2ZV1F1", "price": 199.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/AKG-N700NC-M2", "price": 199.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 199.99}
-    ]
-  },
-  {
-    "name": "Plantronics BackBeat Go 810",
-    "desc": "Casque Bluetooth à ANC avec bonne autonomie (~22h), confortable et pratique pour le quotidien.",
-    "moyenne_price": 129.99,
-    "moyenne_stars": 4.4,
-    "picture": [
-      {"title": "BackBeat Go 810 01", "url": "https://www.plantronics.com/content/dam/plantronics/products/headphones/backbeat-go-810/backbeat-go-810-hero.png"},
-      {"title": "BackBeat Go 810 02", "url": "https://www.plantronics.com/content/dam/plantronics/products/headphones/backbeat-go-810/backbeat-go-810-side.png"}
-    ],
-    "marque": "Plantronics",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B07P5XN4F7", "price": 129.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/BackBeat-Go-810", "price": 129.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 129.99}
-    ]
-  },
-  {
-    "name": "Bang & Olufsen Beoplay H95",
-    "desc": "Casque haut de gamme avec ANC, finition premium et son exceptionnel.",
-    "moyenne_price": 849.99,
-    "moyenne_stars": 4.9,
-    "picture": [
-      {"title": "Beoplay H95 01", "url": "https://www.bang-olufsen.com/en/images/beoplay-h95-01.jpg"},
-      {"title": "Beoplay H95 02", "url": "https://www.bang-olufsen.com/en/images/beoplay-h95-02.jpg"}
-    ],
-    "marque": "Bang & Olufsen",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B08HXM8Y6X", "price": 849.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/Beoplay-H95", "price": 849.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 849.99}
-    ]
-  },
-  {
-    "name": "Marshall Monitor II ANC",
-    "desc": "Casque Bluetooth avec ANC, bonne autonomie (~30h), design vintage et son puissant.",
-    "moyenne_price": 199.99,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "Marshall Monitor II 01", "url": "https://cdn.marshall.com/monitor-ii/monitor-ii-hero.jpg"},
-      {"title": "Marshall Monitor II 02", "url": "https://cdn.marshall.com/monitor-ii/monitor-ii-side.jpg"}
-    ],
-    "marque": "Marshall",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B08TNV5L4X", "price": 199.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/Marshall-Monitor-II-ANC", "price": 199.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 199.99}
-    ]
-  },
-  {
-    "name": "Sony MDR-ZX770BN",
-    "desc": "Casque filaire/bluetooth avec réduction de bruit, confortable et pratique pour le bureau ou les déplacements.",
-    "moyenne_price": 149.99,
-    "moyenne_stars": 4.4,
-    "picture": [
-      {"title": "Sony ZX770BN 01", "url": "https://www.sony.com/images/mdr-zx770bn-01.jpg"},
-      {"title": "Sony ZX770BN 02", "url": "https://www.sony.com/images/mdr-zx770bn-02.jpg"}
-    ],
-    "marque": "Sony",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B07B3VY1ZW", "price": 149.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/Sony-MDR-ZX770BN", "price": 149.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 149.99}
-    ]
-  },
-  {
-    "name": "AKG Y500",
-    "desc": "Casque Bluetooth avec ANC, bon son et design élégant, autonomie ~33h.",
-    "moyenne_price": 99.99,
-    "moyenne_stars": 4.5,
-    "picture": [
-      {"title": "AKG Y500 01", "url": "https://www.akg.com/images/y500-01.jpg"},
-      {"title": "AKG Y500 02", "url": "https://www.akg.com/images/y500-02.jpg"}
-    ],
-    "marque": "AKG",
-    "categorie": "casque",
-    "vendeurs": [
-      {"vendeur": "Amazon", "url": "https://www.amazon.fr/dp/B07G6F91N9", "price": 99.99},
-      {"vendeur": "Fnac", "url": "https://www.fnac.com/AKG-Y500", "price": 99.99},
-      {"vendeur": "Darty", "url": "https://www.darty.com", "price": 99.99}
-    ]
-  },
-]
-
+      "name": "Casque supra-auriculaire sans fil Bluetooth JBL Tune 770NC à réduction de bruit adaptative Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 69.99,
+      "picture": [
+        {
+          "title": "Casque supra-auriculaire sans fil Bluetooth JBL Tune 770NC à réduction de bruit adaptative Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/19/e8/4d/21882905/1540-1/tsp20251204144315/Casque-supra-auriculaire-sans-fil-Bluetooth-JBL-Tune-770NC-a-reduction-de-bruit-adaptative-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-supra-auriculaire-sans-fil-Bluetooth-JBL-Tune-770NC-a-reduction-de-bruit-adaptative-Noir/a17958281/w-4#omnsearchpos=2",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque supra-auriculaire sans fil Bluetooth JBL Tune 525BT Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 49.99,
+      "picture": [
+        {
+          "title": "Casque supra-auriculaire sans fil Bluetooth JBL Tune 525BT Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/85/13/50/22025093/1540-1/tsp20251029130729/Casque-supra-auriculaire-sans-fil-Bluetooth-JBL-Tune-525BT-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-supra-auriculaire-sans-fil-Bluetooth-JBL-Tune-525BT-Noir/a18218417/w-4#omnsearchpos=3",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque d’écoute sans fil arceau Bose QuietComfort SC Bluetooth avec réduction active du bruit Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 189.99,
+      "picture": [
+        {
+          "title": "Casque d’écoute sans fil arceau Bose QuietComfort SC Bluetooth avec réduction active du bruit Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/cb/ce/68/23645899/1540-1/tsp20250829102458/Casque-d-ecoute-sans-fil-arceau-Bose-QuietComfort-SC-Bluetooth-avec-reduction-active-du-bruit-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-d-ecoute-sans-fil-arceau-Bose-QuietComfort-SC-Bluetooth-avec-reduction-active-du-bruit-Noir/a20283684/w-4#omnsearchpos=4",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque sans fil Bluetooth Marshall Major IV Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 69.99,
+      "picture": [
+        {
+          "title": "Casque sans fil Bluetooth Marshall Major IV Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/7b/7f/f0/15761275/1540-1/tsp20251205131610/Casque-sans-fil-Bluetooth-Marshall-Major-IV-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-audio-Marshall-Major-IV-Bluetooth-Noir/a15216837/w-4#omnsearchpos=5",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque audio sans fil SONY Bluetooth à réduction de bruit WH-CH720N Bleu",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 79.99,
+      "picture": [
+        {
+          "title": "Casque audio sans fil SONY Bluetooth à réduction de bruit WH-CH720N Bleu",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/84/be/44/21282436/1540-1/tsp20250922175304/Casque-audio-sans-fil-SONY-Bluetooth-a-reduction-de-bruit-WH-CH720N-Bleu.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-audio-sans-fil-SONY-Bluetooth-a-reduction-de-bruit-WH-CH720N-Bleu/a17689643/w-4#omnsearchpos=6",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque gaming filaire circum-aural avec micro rétractable Quantum 200 Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 29.99,
+      "picture": [
+        {
+          "title": "Casque gaming filaire circum-aural avec micro rétractable Quantum 200 Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/e7/d9/e2/14866919/1540-1/tsp20251204133608/Casque-gaming-filaire-circum-aural-avec-micro-retractable-Quantum-200-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-gaming-filaire-circum-aural-avec-micro-retractable-Quantum-200-Noir/a14651892/w-4#omnsearchpos=7",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque audio sans fil Sony WH-CH720 Bluetooth avec réduction active du bruit Rose",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 79.99,
+      "picture": [
+        {
+          "title": "Casque audio sans fil Sony WH-CH720 Bluetooth avec réduction active du bruit Rose",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/4c/15/ab/27989324/1540-1/tsp20251119233932/Casque-audio-sans-fil-Sony-WH-CH720-Bluetooth-avec-reduction-active-du-bruit-Rose.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-audio-sans-fil-Sony-WH-CH720-Bluetooth-avec-reduction-active-du-bruit-Rose/a21413999/w-4#omnsearchpos=8",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque audio arceau sans fil Sony WH1000XM5 noir à réduction de bruit",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 279.99,
+      "picture": [
+        {
+          "title": "Casque audio arceau sans fil Sony WH1000XM5 noir à réduction de bruit",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/d9/63/25/19227609/1540-1/tsp20250904152517/Casque-audio-arceau-sans-fil-Sony-WH1000XM5-noir-a-reduction-de-bruit.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-audio-a-reduction-de-bruit-Bluetooth-Sony-WH1000XM5-Noir/a16864769/w-4#omnsearchpos=9",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque arceau sans fil Bluetooth Multipoint Sony WHCH520 Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 34.99,
+      "picture": [
+        {
+          "title": "Casque arceau sans fil Bluetooth Multipoint Sony WHCH520 Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/81/be/44/21282433/1540-1/tsp20250922175304/Casque-arceau-sans-fil-Bluetooth-Multipoint-Sony-WHCH520-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-arceau-sans-fil-Bluetooth-Multipoint-Sony-WHCH520-Noir/a17689640/w-4#omnsearchpos=10",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque arceau circum-aural sans fil Bluetooth JBL Tune 720BT Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 49.99,
+      "picture": [
+        {
+          "title": "Casque arceau circum-aural sans fil Bluetooth JBL Tune 720BT Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/e6/da/49/21617382/1540-1/tsp20251205170647/Casque-arceau-circum-aural-sans-fil-Bluetooth-JBL-Tune-720BT-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-arceau-circum-aural-sans-fil-Bluetooth-JBL-Tune-720BT-Noir/a17754086/w-4#omnsearchpos=11",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque Circum-Auriculaire sans fil Bluetooth JBL Live 770 NC à réduction de bruit adaptative Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 99.99,
+      "picture": [
+        {
+          "title": "Casque Circum-Auriculaire sans fil Bluetooth JBL Live 770 NC à réduction de bruit adaptative Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/cb/c4/51/22136011/1540-1/tsp20251125171937/Casque-Circum-Auriculaire-sans-fil-Bluetooth-JBL-Live-770-NC-a-reduction-de-bruit-adaptative-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-Circum-Auriculaire-sans-fil-Bluetooth-JBL-Live-770-NC-a-reduction-de-bruit-adaptative-Noir/a18336880/w-4#omnsearchpos=12",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque Audio Sans Fil Bluetooth 5.1 avec Coussinets Confort Modèle Hawaï Avizar Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 29.9,
+      "picture": [
+        {
+          "title": "Casque Audio Sans Fil Bluetooth 5.1 avec Coussinets Confort Modèle Hawaï Avizar Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/2B/02/1E/1B/28434475-1505-1540-1/tsp20251031195636/Casque-Audio-Sans-Fil-Bluetooth-5-1-avec-Couinets-Confort-Modele-Hawai-Avizar-Noir.jpg#e01fa0f6-e12b-4e75-b281-0e8688bb734f"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp52202149/Casque-Audio-Sans-Fil-Bluetooth-5-1-avec-Coussinets-Confort-Modele-Hawai-Avizar-Noir/w-4#omnsearchpos=13",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque audio sans fil SONY Bluetooth à réduction de bruit WH-CH720N Blanc",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 79.99,
+      "picture": [
+        {
+          "title": "Casque audio sans fil SONY Bluetooth à réduction de bruit WH-CH720N Blanc",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/83/be/44/21282435/1540-1/tsp20250922175304/Casque-audio-sans-fil-SONY-Bluetooth-a-reduction-de-bruit-WH-CH720N-Blanc.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-audio-sans-fil-SONY-Bluetooth-a-reduction-de-bruit-WH-CH720N-Blanc/a17689642/w-4#omnsearchpos=14",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque sans fil supra-aural Bose QuietComfort Ultra avec réduction active du bruit Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 399.99,
+      "picture": [
+        {
+          "title": "Casque sans fil supra-aural Bose QuietComfort Ultra avec réduction active du bruit Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/9e/17/52/22157214/1540-1/tsp20251113094258/Casque-sans-fil-supra-aural-Bose-QuietComfort-Ultra-avec-reduction-active-du-bruit-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-sans-fil-Bose-QuietComfort-Ultra-a-reduction-de-bruit-Noir/a18438842/w-4#omnsearchpos=15",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque audio arceau circum-aural sans fil Marshall Monitor III ANC avec réduction de bruit active Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 249.99,
+      "picture": [
+        {
+          "title": "Casque audio arceau circum-aural sans fil Marshall Monitor III ANC avec réduction de bruit active Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDMFR/MDM/0b/34/7f/25113611/1540-1/tsp20251120185048/Casque-audio-arceau-circum-aural-sans-fil-Marshall-Monitor-III-ANC-avec-reduction-de-bruit-active-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-audio-arceau-circum-aural-sans-fil-Marshall-Monitor-III-ANC-avec-reduction-de-bruit-active-Noir/a20849512/w-4#omnsearchpos=16",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque arceau circum-aural sans fil Bluetooth avec réduction de bruit Sony ULT Wear WH-ULT900NB Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 119.99,
+      "picture": [
+        {
+          "title": "Casque arceau circum-aural sans fil Bluetooth avec réduction de bruit Sony ULT Wear WH-ULT900NB Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/90/24/66/23471248/1540-1/tsp20251102092532/Casque-arceau-circum-aural-sans-fil-Bluetooth-avec-reduction-de-bruit-Sony-ULT-Wear-WH-ULT900NB-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-arceau-circum-aural-sans-fil-Bluetooth-avec-reduction-de-bruit-Sony-ULT-Wear-WH-ULT900NB-Noir/a19789917/w-4#omnsearchpos=17",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque de sport sans fil à conduction osseuse Shokz Bluetooth Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 99.99,
+      "picture": [
+        {
+          "title": "Casque de sport sans fil à conduction osseuse Shokz Bluetooth Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDMFR/MDM/ab/0e/6e/23989931/1540-1/tsp20251124152640/Casque-de-sport-sans-fil-a-conduction-oeuse-Shokz-Bluetooth-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-de-sport-sans-fil-a-conduction-osseuse-Shokz-Bluetooth-Noir/a20795693/w-4#omnsearchpos=18",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque Gaming filaire HyperX Cloud Alpha Noir et Rouge",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": null,
+      "picture": [
+        {
+          "title": "Casque Gaming filaire HyperX Cloud Alpha Noir et Rouge",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/5b/b6/4d/5092955/1540-1/tsp20251204173627/Casque-Gaming-filaire-HyperX-Cloud-Alpha-Noir-et-Rouge.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-Pro-Gaming-HyperX-Cloud-Alpha-Noir-et-Rouge/a10986229/w-4#omnsearchpos=19",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Casque micro gaming sans fil SteelSeries Arctis Nova 5P Bluetooth Blanc",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 129.99,
+      "picture": [
+        {
+          "title": "Casque micro gaming sans fil SteelSeries Arctis Nova 5P Bluetooth Blanc",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/a7/c1/a5/27640231/1540-1/tsp20251110131459/Casque-micro-gaming-sans-fil-SteelSeries-Arctis-Nova-5P-Bluetooth-Blanc.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "casque",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Casque-micro-gaming-sans-fil-SteelSeries-Arctis-Nova-5P-Bluetooth-Blanc/a21230716/w-4#omnsearchpos=20",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Samsung Galaxy Book4 Edge 15,6\" Copilot+ Snapdragon® X 16 Go RAM 512 Go SSD Gris glacier",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 599.99,
+      "picture": [
+        {
+          "title": "PC portable Samsung Galaxy Book4 Edge 15,6\" Copilot+ Snapdragon® X 16 Go RAM 512 Go SSD Gris glacier",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/da/63/b7/28795866/1540-1/tsp20251017151805/PC-portable-Samsung-Galaxy-Book4-Edge-15-6-Copilot-Snapdragon-X-16-Go-RAM-512-Go-D-Gris-glacier.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Samsung-Galaxy-Book4-Edge-15-6-Copilot-Snapdragon-X-16-Go-RAM-512-Go-SSD-Gris-glacier/a22013169/w-4",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "A52 PRO BLACKVIEW Android Téléphone mobile Bleu -6.5 4Go/128Go 4G smartphone Octa core",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 77.99,
+      "picture": [
+        {
+          "title": "A52 PRO BLACKVIEW Android Téléphone mobile Bleu -6.5 4Go/128Go 4G smartphone Octa core",
+          "url": "https://static.fnac-static.com/multimedia/Images/1B/E1/62/15/22425115-1505-1540-1/tsp20231102220823/A52-PRO-BLACKVIEW-Android-Telephone-mobile-Bleu-6-5-4Go-128Go-4G-smartphone-Octa-core.jpg#a4c85072-b55f-421c-ba6c-f5be111de900"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp49331984/A52-PRO-BLACKVIEW-Android-Telephone-mobile-Bleu-6-5-4Go-128Go-4G-smartphone-Octa-core/w-4#omnsearchpos=1",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable - 15.6\"FHD+ - 32 Go de RAM 512 Go SSD - Intel® Pentium® Gold 6500Y(2C/4T Jusqu'à 2,9 GHz) - Windows 11 PRO - Ordinateur",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 319.99,
+      "picture": [
+        {
+          "title": "PC portable - 15.6\"FHD+ - 32 Go de RAM 512 Go SSD - Intel® Pentium® Gold 6500Y(2C/4T Jusqu'à 2,9 GHz) - Windows 11 PRO - Ordinateur",
+          "url": "https://static.fnac-static.com/multimedia/Images/C5/0C/C3/1A/28061893-1505-1540-1/tsp20251111104243/PC-portable-15-6-FHD-32-Go-de-RAM-512-Go-D-Intel-Pentium-Gold-6500Y-2C-4T-Jusqu-a-2-9-GHz-Windows-11-PRO-Ordinateur.jpg#8a8f4594-b040-48d7-bcf9-54f68e89d0fa"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp51758380/PC-portable-15-6FHD-16-Go-de-RAM-512-Go-SSD-Intel-Celeron-N5095-Jusqu-a-2-9-GHz-Windows-11-PRO-WiFi5-Ordinateur/w-4#omnsearchpos=2",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Pack Smartphone Xiaomi Redmi Note 14 6,67\" 5G Double nano SIM 256 Go Noir minuit + Enceinte portable Bluetooth Sound Pocket Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 252,
+      "picture": [
+        {
+          "title": "Pack Smartphone Xiaomi Redmi Note 14 6,67\" 5G Double nano SIM 256 Go Noir minuit + Enceinte portable Bluetooth Sound Pocket Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/ec/dc/b7/28826860/1540-1/tsp20251203173157/Pack-Smartphone-Xiaomi-Redmi-Note-14-6-67-5G-Double-nano-SIM-256-Go-Noir-minuit-Enceinte-portable-Bluetooth-Sound-Pocket-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Pack-Smartphone-Xiaomi-Redmi-Note-14-6-67-5G-Double-nano-SIM-256-Go-Noir-minuit-Enceinte-portable-Bluetooth-Sound-Pocket-Noir/a22133142/w-4#omnsearchpos=3",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Acer Aspire Lite 15 AL15-32P-C96Y 15,6\" Full HD 60 Hz Intel® Celeron® 4 Go RAM 128 Go eMMC Argent",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 249.99,
+      "picture": [
+        {
+          "title": "PC portable Acer Aspire Lite 15 AL15-32P-C96Y 15,6\" Full HD 60 Hz Intel® Celeron® 4 Go RAM 128 Go eMMC Argent",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/4e/92/b8/28873294/1540-1/tsp20251204190509/PC-portable-Acer-Aspire-Lite-15-AL15-32P-C96Y-15-6-Full-HD-60-Hz-Intel-Celeron-4-Go-RAM-128-Go-eMMC-Argent.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Acer-Aspire-Lite-15-AL15-32P-C96Y-15-6-Full-HD-60-Hz-Intel-Celeron-4-Go-RAM-128-Go-eMMC-Argent/a22206169/w-4#omnsearchpos=4",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable HP 15-fd1016nf Intel® Core™ i5 16 Go RAM 512 Go SSD Argent Naturel",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": null,
+      "picture": [
+        {
+          "title": "PC portable HP 15-fd1016nf Intel® Core™ i5 16 Go RAM 512 Go SSD Argent Naturel",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/c9/4a/b3/28527305/1540-1/tsp20251127183411/PC-portable-HP-15-fd1016nf-Intel-Core-i5-16-Go-RAM-512-Go-D-Argent-Naturel.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-HP-15-fd1016nf-Intel-Core-i5-16-Go-RAM-512-Go-SSD-Argent-Naturel/a21832062/w-4#omnsearchpos=5",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Smartphone Samsung Galaxy A16 6,7\" Nano SIM 128 Go Bleu nuit",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 172,
+      "picture": [
+        {
+          "title": "Smartphone Samsung Galaxy A16 6,7\" Nano SIM 128 Go Bleu nuit",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/85/d6/a4/27580037/1540-1/tsp20251201150844/Smartphone-Samsung-Galaxy-A16-6-7-Nano-SIM-128-Go-Bleu-nuit.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Smartphone-Samsung-Galaxy-A16-6-7-Nano-SIM-128-Go-Bleu-nuit/a20923327/w-4#omnsearchpos=6",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Téléphone portable basique Logicom Posh 405 1,77\" Double SIM 48 Mo Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 21.99,
+      "picture": [
+        {
+          "title": "Téléphone portable basique Logicom Posh 405 1,77\" Double SIM 48 Mo Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/39/9f/aa/27959097/1540-1/tsp20250725133336/Telephone-portable-basique-Logicom-Posh-405-1-77-Double-SIM-48-Mo-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Telephone-portable-basique-Logicom-Posh-405-1-77-Double-SIM-48-Mo-Noir/a21392405/w-4#omnsearchpos=7",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Smartphone Doogee Note 58 6.75 32Go 128Go Android 15 Telephone Portable dual sim 4G-Argent",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 96.99,
+      "picture": [
+        {
+          "title": "Smartphone Doogee Note 58 6.75 32Go 128Go Android 15 Telephone Portable dual sim 4G-Argent",
+          "url": "https://static.fnac-static.com/multimedia/Images/4E/64/EF/1A/28243534-1505-1540-1/tsp20250429152714/Smartphone-Doogee-Note-58-6-75-32Go-128Go-Android-15-Telephone-Portable-dual-sim-4G-Argent.jpg#5327f45e-227d-45fd-b5f3-8531ecfc40b3"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp51983663/Smartphone-Doogee-Note-58-6-75-32Go-128Go-Android-15-Telephone-Portable-dual-sim-4G-Argent/w-4#omnsearchpos=8",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Acer Aspire Go 15 AG15-42P-R99J 15,6\" Full HD 60 Hz AMD Ryzen™ 5 8 Go RAM 512 Go SSD Argent",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 499.99,
+      "picture": [
+        {
+          "title": "PC portable Acer Aspire Go 15 AG15-42P-R99J 15,6\" Full HD 60 Hz AMD Ryzen™ 5 8 Go RAM 512 Go SSD Argent",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/09/e3/b2/28500745/1540-1/tsp20251010035510/PC-portable-Acer-Aspire-Go-15-AG15-42P-R99J-15-6-Full-HD-60-Hz-AMD-Ryzen-5-8-Go-RAM-512-Go-D-Argent.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Acer-Aspire-Go-15-AG15-42P-R99J-15-6-Full-HD-60-Hz-AMD-Ryzen-5-8-Go-RAM-512-Go-SSD-Argent/a21777483/w-4#omnsearchpos=9",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Lenovo IdeaPad Slim 3 15IAN8 15,6\" Intel® Core™ i3 8 Go RAM 128 Go SSD Gris arctique",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 479.99,
+      "picture": [
+        {
+          "title": "PC portable Lenovo IdeaPad Slim 3 15IAN8 15,6\" Intel® Core™ i3 8 Go RAM 128 Go SSD Gris arctique",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/fe/04/a8/27788542/1540-1/tsp20251107032613/PC-portable-Lenovo-IdeaPad-Slim-3-15IAN8-15-6-Intel-Core-i3-8-Go-RAM-128-Go-D-Gris-arctique.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Lenovo-IdeaPad-Slim-3-15IAN8-15-6-Intel-Core-i3-8-Go-RAM-128-Go-SSD-Gris-arctique/a21263285/w-4#omnsearchpos=10",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Smartphone Logicom Aero 6,5\" Double nano SIM 64 Go Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 81,
+      "picture": [
+        {
+          "title": "Smartphone Logicom Aero 6,5\" Double nano SIM 64 Go Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/bc/05/a4/27526588/1540-1/tsp20251021135429/Smartphone-Logicom-aero-6-5-Double-nano-SIM-64-Go-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Smartphone-Logicom-Aero-6-5-Double-nano-SIM-64-Go-Noir/a20987463/w-4#omnsearchpos=11",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Samsung Galaxy Book4 Edge 15,6\" Copilot+ Snapdragon® X 16 Go RAM 512 Go SSD Gris glacier",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 599.99,
+      "picture": [
+        {
+          "title": "PC portable Samsung Galaxy Book4 Edge 15,6\" Copilot+ Snapdragon® X 16 Go RAM 512 Go SSD Gris glacier",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/da/63/b7/28795866/1540-1/tsp20251017151805/PC-portable-Samsung-Galaxy-Book4-Edge-15-6-Copilot-Snapdragon-X-16-Go-RAM-512-Go-D-Gris-glacier.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Samsung-Galaxy-Book4-Edge-15-6-Copilot-Snapdragon-X-16-Go-RAM-512-Go-SSD-Gris-glacier/a22013169/w-4#omnsearchpos=12",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Pack PC portable Lenovo IdeaPad Slim 3 15ABR8 15,6\" AMD Ryzen™ 5 16 Go RAM 512 Go SSD Gris + Sac à dos Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 599.99,
+      "picture": [
+        {
+          "title": "Pack PC portable Lenovo IdeaPad Slim 3 15ABR8 15,6\" AMD Ryzen™ 5 16 Go RAM 512 Go SSD Gris + Sac à dos Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/80/4b/b3/28527488/1540-1/tsp20251107191102/Pack-PC-portable-Lenovo-IdeaPad-Slim-3-15ABR8-15-6-AMD-Ryzen-5-16-Go-RAM-512-Go-D-Gris-Sac-a-dos-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Pack-PC-portable-Lenovo-IdeaPad-Slim-3-15ABR8-15-6-AMD-Ryzen-5-16-Go-RAM-512-Go-SSD-Gris-Sac-a-dos-Noir/a21832185/w-4#omnsearchpos=13",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable-Intel Alder Lake N95(4 cœurs/4 threads)-NVIDIA GeForce MX330-16Go RAM DDR4 512Go SSD-Windows 11 PRO-Ordinateur Portable",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 349.99,
+      "picture": [
+        {
+          "title": "PC portable-Intel Alder Lake N95(4 cœurs/4 threads)-NVIDIA GeForce MX330-16Go RAM DDR4 512Go SSD-Windows 11 PRO-Ordinateur Portable",
+          "url": "https://static.fnac-static.com/multimedia/Images/8E/18/E9/16/24023438-1505-1540-1/tsp20250303130033/PC-portable-Intel-Alder-Lake-N95-4-coeurs-4-threads-NVIDIA-GeForce-MX330-16Go-RAM-DDR4-512Go-D-Windows-11-PRO-Ordinateur-Portable.jpg#9e62f9d5-a477-4067-bb53-7fb68f3f04e7"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp50824821/Ordinateur-Portable-2520-1680-IPS-24-Go-DDR4-512-Go-SSD-Intel-Alder-Lake-N95-Jusqu-a-3-4-GHz-PC-Portable-leger-avec-16-1-Pouces-Double-Wi-Fi-BT5-0-USB-3-0-AZERTY/w-4#omnsearchpos=14",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC Portable Samsung Galaxy Book4 Pro 14\" WQXGA+ écran tactile 120 Hz Intel® Core™ Ultra 5 16 Go RAM 512 Go SSD Gris anthracite",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 1499.99,
+      "picture": [
+        {
+          "title": "PC Portable Samsung Galaxy Book4 Pro 14\" WQXGA+ écran tactile 120 Hz Intel® Core™ Ultra 5 16 Go RAM 512 Go SSD Gris anthracite",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/df/2e/67/23539423/1540-1.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Samsung-Galaxy-Book4-Pro-Intel-Core-Ultra-5-125H-jusqu-a-4-5-GHz-Evo-Win-11-Home-Intel-Arc-Graphics-16-Go-RAM-512-Go-SSD-NVMe-14-AMOLED-ecran-tactile-2880-x-1800-WQXGA-120-Hz-Wi-Fi-6E-Bluetooth-gris-clavier-AZERTY/a21189381/w-4#omnsearchpos=15",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable HP 17-cp3021nf 17,3\" AMD Ryzen™ 7 16 Go RAM 1 To SSD Argent Naturel",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": null,
+      "picture": [
+        {
+          "title": "PC portable HP 17-cp3021nf 17,3\" AMD Ryzen™ 7 16 Go RAM 1 To SSD Argent Naturel",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/ef/26/b2/28452591/1540-1/tsp20251004025808/PC-portable-HP-17-cp3021nf-17-3-AMD-Ryzen-7-16-Go-RAM-1-To-D-Argent-Naturel.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-HP-17-cp3021nf-17-3-AMD-Ryzen-7-16-Go-RAM-1-To-SSD-Argent-Naturel/a21739376/w-4#omnsearchpos=16",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "CUBOT A20 Téléphone Portable 6.745” HD+ 12GO RAM 128GO Smartphone Android 14 5100mAh Dual SIM 4G-Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 89.99,
+      "picture": [
+        {
+          "title": "CUBOT A20 Téléphone Portable 6.745” HD+ 12GO RAM 128GO Smartphone Android 14 5100mAh Dual SIM 4G-Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/48/04/31/1A/27463752-1505-1540-1/tsp20241024113357/CUBOT-A20-Telephone-Portable-6-745-HD-12GO-RAM-128GO-Smartphone-Android-14-5100mAh-Dual-SIM-4G-Noir.jpg#f7fc6f8b-a627-4663-b255-6d6ccc7479d9"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp51176523/CUBOT-A20-Telephone-Portable-6-745-HD-12GO-RAM-128GO-Smartphone-Android-14-5100mAh-Dual-SIM-4G-Noir/w-4#omnsearchpos=17",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable HP OmniBook X Flip Next Gen AI 14-fm0007nf 14” Ecran tactile OLED Copilot+ Intel® Core™ Ultra 7 32 Go RAM 1 To SSD Bleu atmosphérique",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": null,
+      "picture": [
+        {
+          "title": "PC portable HP OmniBook X Flip Next Gen AI 14-fm0007nf 14” Ecran tactile OLED Copilot+ Intel® Core™ Ultra 7 32 Go RAM 1 To SSD Bleu atmosphérique",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/56/2c/b7/28781654/1540-1/tsp20251119212500/PC-portable-HP-OmniBook-X-Flip-Next-Gen-AI-14-fm0007nf-14-Ecran-tactile-OLED-Copilot-Intel-Core-Ultra-7-32-Go-RAM-1-To-D-Bleu-atmospherique.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-HP-OmniBook-X-Flip-Next-Gen-AI-14-fm0007nf-14-Ecran-tactile-OLED-Copilot-Intel-Core-Ultra-7-32-Go-RAM-1-To-SSD-Bleu-atmospherique/a21999098/w-4#omnsearchpos=18",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Acer Aspire 14 AI A14-52M 14\" Copilot+ Intel® Core™ Ultra 5 16 Go RAM 512 Go SSD Gris acier",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 799.99,
+      "picture": [
+        {
+          "title": "PC portable Acer Aspire 14 AI A14-52M 14\" Copilot+ Intel® Core™ Ultra 5 16 Go RAM 512 Go SSD Gris acier",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/52/8b/a8/27822930/1540-1.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Acer-Aspire-14-AI-A14-52M-14-Copilot-Intel-Core-Ultra-5-16-Go-RAM-512-Go-SSD-Gris-acier/a21313371/w-4#omnsearchpos=19",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Smartphone Logicom Ezy 2 5\" Double Nano SIM Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 59.99,
+      "picture": [
+        {
+          "title": "Smartphone Logicom Ezy 2 5\" Double Nano SIM Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/a4/48/b3/28526756/1540-1/tsp20250911133217/Smartphone-Logicom-Ezy-2-5-Double-Nano-SIM-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "portable",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Smartphone-Logicom-Ezy-2-5-Double-Nano-SIM-Noir/a21829232/w-4#omnsearchpos=20",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Pack Tablette tactile Xiaomi Redmi Pad 2 11\" Wifi 128 Go Gris + Etui + Clavier + Stylet",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 199.99,
+      "picture": [
+        {
+          "title": "Pack Tablette tactile Xiaomi Redmi Pad 2 11\" Wifi 128 Go Gris + Etui + Clavier + Stylet",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/08/b3/b7/28816136/1540-1/tsp20251208111030/Pack-Tablette-tactile-Xiaomi-Redmi-Pad-2-11-Wifi-128-Go-Gris-Etui-Clavier-Stylet.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Pack-Tablette-tactile-Xiaomi-Redmi-Pad-2-11-Wifi-128-Go-Gris-Etui-Clavier-Stylet/a22056206/w-4#omnsearchpos=1",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette Tactile Lenovo Idea Tab Pro 12,7\" 128 Go Gris Luna + stylet Lenovo Tab Pen Plus + Clavier",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 349.99,
+      "picture": [
+        {
+          "title": "Tablette Tactile Lenovo Idea Tab Pro 12,7\" 128 Go Gris Luna + stylet Lenovo Tab Pen Plus + Clavier",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/b4/5f/b6/28729268/1540-1.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Tablette-Tactile-Lenovo-Idea-Tab-Pro-12-7-128-Go-Gris-Luna-stylet-Lenovo-Tab-Pen-Plus-Clavier/a21960289/w-4#omnsearchpos=2",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Pack Tablette Tactile Lenovo Idea Tab 11\" Wi-Fi 128 Go Gris anthracite + Stylet + Coque de protection",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": null,
+      "picture": [
+        {
+          "title": "Pack Tablette Tactile Lenovo Idea Tab 11\" Wi-Fi 128 Go Gris anthracite + Stylet + Coque de protection",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/94/9e/b2/28483220/1540-1.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Pack-Tablette-Tactile-Lenovo-Idea-Tab-11-Wi-Fi-128-Go-Gris-anthracite-Stylet-Coque-de-protection/a21768862/w-4#omnsearchpos=3",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette tactile 5G WiFi Android 12 32Go avec Clavier et Stylo 10\"",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 74.99,
+      "picture": [
+        {
+          "title": "Tablette tactile 5G WiFi Android 12 32Go avec Clavier et Stylo 10\"",
+          "url": "https://static.fnac-static.com/multimedia/Images/7F/D7/1B/15/22134143-1505-1540-1/tsp20230712125059/Tablette-tactile-5G-WiFi-Android-12-32Go-avec-Clavier-et-Stylo-10.jpg#263be6d2-5bcc-424c-9ace-eb1064fe7a52"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp48940261/Tablette-10-Pouces-Android-12-avec-5G-WiFi-2Go-RAM-32Go-ROM-1TB-Extensible-Bluetooth-5-8-coeurs-2-0-GHz-7000mAh-2-en-1-Tablette-Tactile-avec-Clavier-et-Stylo-et-Cas-or/w-4#omnsearchpos=4",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Pack Tablette Tactile Lenovo Tab One 8,7\" 64 Go Gris anthracite + coque de protection transparente",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 119.99,
+      "picture": [
+        {
+          "title": "Pack Tablette Tactile Lenovo Tab One 8,7\" 64 Go Gris anthracite + coque de protection transparente",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/f0/2c/b2/28454128/1540-1.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Pack-Tablette-Tactile-Lenovo-Tab-One-8-7-64-Go-Gris-anthracite-coque-de-protection-transparente/a21742099/w-4#omnsearchpos=5",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette Tactile Samsung Galaxy Tab A9+ 11\" Wifi 128 Go Anthracite",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 270.99,
+      "picture": [
+        {
+          "title": "Tablette Tactile Samsung Galaxy Tab A9+ 11\" Wifi 128 Go Anthracite",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/c1/08/b1/28379329/1540-1/tsp20251208101123/Tablette-Tactile-Samsung-Galaxy-Tab-A9-11-Wifi-128-Go-Anthracite.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Tablette-Tactile-Samsung-Galaxy-Tab-A9-11-Wifi-128-Go-Anthracite/a21688745/w-4#omnsearchpos=6",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette 10.1 Pouces, Android 13, Wi-Fi6, 12Go+256Go Tablette Tactile Dual Caméra 8MP+16MP Octa-Core 7560mAh Batterie, Tablette avec clavier et étui-Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 74.99,
+      "picture": [
+        {
+          "title": "Tablette 10.1 Pouces, Android 13, Wi-Fi6, 12Go+256Go Tablette Tactile Dual Caméra 8MP+16MP Octa-Core 7560mAh Batterie, Tablette avec clavier et étui-Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/11/51/D6/16/23946513-1505-1540-1/tsp20240725124731/Tablette-10-1-Pouces-Android-13-Wi-Fi6-12Go-256Go-Tablette-Tactile-Dual-Camera-8MP-16MP-Octa-Core-7560mAh-Batterie-Tablette-avec-clavier-et-etui-Noir.jpg#38c9daf2-d83e-425f-adc3-06d7fe1978cc"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp50527169/Tablette-10-1-Pouces-Android-13-Wi-Fi6-12Go-256Go-Tablette-Tactile-Dual-Camera-8MP-16MP-Octa-Core-7560mAh-Batterie-Tablette-avec-clavier-et-etui-Noir/w-4#omnsearchpos=7",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette Tactile Lenovo Tab M11 11\" 128 Go Gris luna + Lenovo Tab Pen",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 161.3,
+      "picture": [
+        {
+          "title": "Tablette Tactile Lenovo Tab M11 11\" 128 Go Gris luna + Lenovo Tab Pen",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/65/84/5b/22774885/1540-1/tsp20251203131124/Tablette-Tactile-Lenovo-Tab-M11-11-128-Go-Gris-luna-Lenovo-Tab-Pen.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/LENOVO-TAB-M11-4-128GB-PLUS-PEN/a19319161/w-4#omnsearchpos=8",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Pack Tablette Tactile Samsung Galaxy Tab S10 Lite 10,9\" Wi-Fi 128 Go Anthracite + Book Cover",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 419.99,
+      "picture": [
+        {
+          "title": "Pack Tablette Tactile Samsung Galaxy Tab S10 Lite 10,9\" Wi-Fi 128 Go Anthracite + Book Cover",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/f5/3a/b5/28654325/1540-1/tsp20251112172320/Pack-Tablette-Tactile-Samsung-Galaxy-Tab-S10-Lite-10-9-Wi-Fi-128-Go-Anthracite-Book-Cover.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Pack-Tablette-Tactile-Samsung-Galaxy-Tab-S10-Lite-10-9-Wi-Fi-128-Go-Anthracite-Book-Cover/a21903823/w-4#omnsearchpos=9",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette Tactile Samsung Galaxy Tab A9+ 11\" Wifi 128 Go Bleu marine",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 270.99,
+      "picture": [
+        {
+          "title": "Tablette Tactile Samsung Galaxy Tab A9+ 11\" Wifi 128 Go Bleu marine",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/bb/08/b1/28379323/1540-1/tsp20251208101123/Tablette-Tactile-Samsung-Galaxy-Tab-A9-11-Wifi-128-Go-Bleu-marine.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Tablette-Tactile-Samsung-Galaxy-Tab-A9-11-Wifi-128-Go-Bleu-marine/a21688739/w-4#omnsearchpos=10",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette Tactile Logicom Tab 210 10,1\" 64 Go Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 79.99,
+      "picture": [
+        {
+          "title": "Tablette Tactile Logicom Tab 210 10,1\" 64 Go Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/5c/05/b8/28837212/1540-1/tsp20251203173157/Tablette-Tactile-Logicom-Tab-210-10-1-64-Go-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Tablette-Tactile-Logicom-Tab-210-10-1-64-Go-Noir/a22170241/w-4#omnsearchpos=11",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette， 12 + 256 Go ，Android 15，blue，wifi+ Etui de protection，blue",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 74.99,
+      "picture": [
+        {
+          "title": "Tablette， 12 + 256 Go ，Android 15，blue，wifi+ Etui de protection，blue",
+          "url": "https://static.fnac-static.com/multimedia/Images/98/89/7B/1B/28817560-1505-1540-1/tsp20251008102223/Tablette-12-256-Go-Android-15-blue-wifi-Etui-de-protection-blue.jpg#cd90b4ee-f3fa-4bd5-ac53-c49b65b82312"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp52585608/Tablette-12-256-Go-Android-15-blue-wifi-Etui-de-protection-blue/w-4#omnsearchpos=12",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Pack Tablette Tactile Lenovo Idea Tab 11\" Wi-Fi 128 Go Gris anthracite + Stylet et coque de protection avec clavier",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 219.99,
+      "picture": [
+        {
+          "title": "Pack Tablette Tactile Lenovo Idea Tab 11\" Wi-Fi 128 Go Gris anthracite + Stylet et coque de protection avec clavier",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/95/9e/b2/28483221/1540-1.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Pack-Tablette-Tactile-Lenovo-Idea-Tab-11-Wi-Fi-128-Go-Gris-anthracite-Stylet-et-coque-de-protection-avec-clavier/a21768863/w-4#omnsearchpos=13",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette tactile enfant Archos T101 10,1\" Wifi 64 Go + Coque Support",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 99.99,
+      "picture": [
+        {
+          "title": "Tablette tactile enfant Archos T101 10,1\" Wifi 64 Go + Coque Support",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/a8/1f/ad/28123048/1540-1/tsp20251110110733/Tablette-tactile-enfant-Archos-T101-10-1-Wifi-64-Go-Coque-Support.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Tablette-tactile-enfant-Archos-T101-10-1-Wifi-64-Go-Coque-Support/a21511500/w-4#omnsearchpos=14",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Pack Tablette tactile Samsung Galaxy Tab A11+ 11\" 128 Go Gris + Book Cover Hybride",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 259.99,
+      "picture": [
+        {
+          "title": "Pack Tablette tactile Samsung Galaxy Tab A11+ 11\" 128 Go Gris + Book Cover Hybride",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/b6/4c/b8/28855478/1540-1/tsp20251203173157/Pack-Tablette-tactile-Samsung-Galaxy-Tab-A11-11-128-Go-Gris-Book-Cover-Hybride.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Pack-Tablette-tactile-Samsung-Galaxy-Tab-A11-11-128-Go-Gris-Book-Cover-Hybride/a22197508/w-4#omnsearchpos=15",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Apple iPad 32 Go WiFi Gris Sidéral 9.7\"",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 93.99,
+      "picture": [
+        {
+          "title": "Apple iPad 32 Go WiFi Gris Sidéral 9.7\"",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/9b/8b/00/35739/1540-1.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Apple-9-7-inch-iPad-Wi-Fi-6eme-generation-tablette-32-Go-9-7-IPS-2048-x-1536-gris-sideral/a11921276/w-4#omnsearchpos=16",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette Tactile Samsung Galaxy Tab A9+ 11\" Wifi 256 Go Anthracite",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 239.99,
+      "picture": [
+        {
+          "title": "Tablette Tactile Samsung Galaxy Tab A9+ 11\" Wifi 256 Go Anthracite",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/be/08/b1/28379326/1540-1/tsp20251208101123/Tablette-Tactile-Samsung-Galaxy-Tab-A9-11-Wifi-256-Go-Anthracite.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Tablette-Tactile-Samsung-Galaxy-Tab-A9-11-Wifi-256-Go-Anthracite/a21688742/w-4#omnsearchpos=17",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette Tactile Xiaomi Redmi Pad SE 11\" Wifi 128 Go Noir graphite",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 199.99,
+      "picture": [
+        {
+          "title": "Tablette Tactile Xiaomi Redmi Pad SE 11\" Wifi 128 Go Noir graphite",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/31/64/a6/27681841/1540-1/tsp20251202143625/Tablette-Tactile-Xiaomi-Redmi-Pad-SE-11-Wifi-128-Go-Noir-graphite.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Tablette-Tactile-Xiaomi-Redmi-Pad-SE-11-Wifi-128-Go-Noir-graphite/a21123371/w-4#omnsearchpos=18",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette tactile Samsung Galaxy Tab A9+ 11\" Wifi 64 Go Gris Anthracite",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 219.99,
+      "picture": [
+        {
+          "title": "Tablette tactile Samsung Galaxy Tab A9+ 11\" Wifi 64 Go Gris Anthracite",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/80/21/57/22487424/1540-1/tsp20251204184856/Tablette-tactile-Samsung-Galaxy-Tab-A9-11-Wifi-64-Go-Gris-Anthracite.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Tablette-tactile-Samsung-Galaxy-Tab-A9-11-Wifi-64-Go-Gris-Anthracite/a18973391/w-4#omnsearchpos=19",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Tablette Enfant 7 Pouces, Veidoo Android 2Go+32Go, Écran Tactile HD, Contrôle Parental, Éducative - Rose",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 45.99,
+      "picture": [
+        {
+          "title": "Tablette Enfant 7 Pouces, Veidoo Android 2Go+32Go, Écran Tactile HD, Contrôle Parental, Éducative - Rose",
+          "url": "https://static.fnac-static.com/multimedia/Images/B0/2B/8E/16/23650992-1505-1540-1/tsp20240731012129/Tablette-Enfant-7-Pouces-Veidoo-Android-2Go-32Go-Ecran-Tactile-HD-Controle-Parental-Educative-Rose.jpg#dc2a9e99-573e-4844-a355-6a8cdb92c339"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "tablette",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp50056796/Tablette-Enfant-7-Pouces-Veidoo-Android-2Go-32Go-Ecran-Tactile-HD-Controle-Parental-Educative-Rose/w-4#omnsearchpos=20",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC Portable Microsoft Surface Laptop 13\" Ecran Tactile Copilot+ PC Qualcomm® Snapdragon® X Plus 16 Go RAM 512 Go SSD Violet",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 999.99,
+      "picture": [
+        {
+          "title": "PC Portable Microsoft Surface Laptop 13\" Ecran Tactile Copilot+ PC Qualcomm® Snapdragon® X Plus 16 Go RAM 512 Go SSD Violet",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/7d/68/ac/28076157/1540-1/tsp20251203131604/PC-Portable-Microsoft-Surface-Laptop-13-Ecran-Tactile-Copilot-PC-Qualcomm-Snapdragon-X-Plus-16-Go-RAM-512-Go-D-Violet.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-Portable-Microsoft-Surface-Laptop-13-Ecran-Tactile-Copilot-PC-Qualcomm-Snapdragon-X-Plus-16-Go-RAM-512-Go-SSD-Violet/a21480672/w-4",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Acer Aspire Lite 15 AL15-32P-C96Y 15,6\" Full HD 60 Hz Intel® Celeron® 4 Go RAM 128 Go eMMC Argent",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 249.99,
+      "picture": [
+        {
+          "title": "PC portable Acer Aspire Lite 15 AL15-32P-C96Y 15,6\" Full HD 60 Hz Intel® Celeron® 4 Go RAM 128 Go eMMC Argent",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/4e/92/b8/28873294/1540-1/tsp20251204190509/PC-portable-Acer-Aspire-Lite-15-AL15-32P-C96Y-15-6-Full-HD-60-Hz-Intel-Celeron-4-Go-RAM-128-Go-eMMC-Argent.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Acer-Aspire-Lite-15-AL15-32P-C96Y-15-6-Full-HD-60-Hz-Intel-Celeron-4-Go-RAM-128-Go-eMMC-Argent/a22206169/w-4#omnsearchpos=1",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Lenovo IdeaPad Slim 3 15IAN8 15,6\" Intel® Core™ i3 8 Go RAM 128 Go SSD Gris arctique",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 479.99,
+      "picture": [
+        {
+          "title": "PC portable Lenovo IdeaPad Slim 3 15IAN8 15,6\" Intel® Core™ i3 8 Go RAM 128 Go SSD Gris arctique",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/fe/04/a8/27788542/1540-1/tsp20251107032613/PC-portable-Lenovo-IdeaPad-Slim-3-15IAN8-15-6-Intel-Core-i3-8-Go-RAM-128-Go-D-Gris-arctique.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Lenovo-IdeaPad-Slim-3-15IAN8-15-6-Intel-Core-i3-8-Go-RAM-128-Go-SSD-Gris-arctique/a21263285/w-4#omnsearchpos=2",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable - 15.6\"FHD+ - 32 Go de RAM 512 Go SSD - Intel® Pentium® Gold 6500Y(2C/4T Jusqu'à 2,9 GHz) - Windows 11 PRO - Ordinateur",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 319.99,
+      "picture": [
+        {
+          "title": "PC portable - 15.6\"FHD+ - 32 Go de RAM 512 Go SSD - Intel® Pentium® Gold 6500Y(2C/4T Jusqu'à 2,9 GHz) - Windows 11 PRO - Ordinateur",
+          "url": "https://static.fnac-static.com/multimedia/Images/C5/0C/C3/1A/28061893-1505-1540-1/tsp20251111104243/PC-portable-15-6-FHD-32-Go-de-RAM-512-Go-D-Intel-Pentium-Gold-6500Y-2C-4T-Jusqu-a-2-9-GHz-Windows-11-PRO-Ordinateur.jpg#8a8f4594-b040-48d7-bcf9-54f68e89d0fa"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp51758380/PC-portable-15-6FHD-16-Go-de-RAM-512-Go-SSD-Intel-Celeron-N5095-Jusqu-a-2-9-GHz-Windows-11-PRO-WiFi5-Ordinateur/w-4#omnsearchpos=3",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable HP 15-fd1016nf Intel® Core™ i5 16 Go RAM 512 Go SSD Argent Naturel",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": null,
+      "picture": [
+        {
+          "title": "PC portable HP 15-fd1016nf Intel® Core™ i5 16 Go RAM 512 Go SSD Argent Naturel",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/c9/4a/b3/28527305/1540-1/tsp20251127183411/PC-portable-HP-15-fd1016nf-Intel-Core-i5-16-Go-RAM-512-Go-D-Argent-Naturel.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-HP-15-fd1016nf-Intel-Core-i5-16-Go-RAM-512-Go-SSD-Argent-Naturel/a21832062/w-4#omnsearchpos=4",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Acer Aspire Go 15 AG15-42P-R99J 15,6\" Full HD 60 Hz AMD Ryzen™ 5 8 Go RAM 512 Go SSD Argent",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 499.99,
+      "picture": [
+        {
+          "title": "PC portable Acer Aspire Go 15 AG15-42P-R99J 15,6\" Full HD 60 Hz AMD Ryzen™ 5 8 Go RAM 512 Go SSD Argent",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/09/e3/b2/28500745/1540-1/tsp20251010035510/PC-portable-Acer-Aspire-Go-15-AG15-42P-R99J-15-6-Full-HD-60-Hz-AMD-Ryzen-5-8-Go-RAM-512-Go-D-Argent.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Acer-Aspire-Go-15-AG15-42P-R99J-15-6-Full-HD-60-Hz-AMD-Ryzen-5-8-Go-RAM-512-Go-SSD-Argent/a21777483/w-4#omnsearchpos=5",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Chromebook Lenovo Duet 11M889 10,95\" MediaTek 8 Go RAM 128 Go eMMC Tactile Gris luna",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 279.99,
+      "picture": [
+        {
+          "title": "Chromebook Lenovo Duet 11M889 10,95\" MediaTek 8 Go RAM 128 Go eMMC Tactile Gris luna",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/67/00/a3/27459687/1540-1/tsp20251107032613/Chromebook-Lenovo-Duet-11M889-10-95-MediaTek-8-Go-RAM-128-Go-eMMC-Tactile-Gris-luna.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Chromebook-Lenovo-Duet-11M889-10-95-MediaTek-8-Go-RAM-128-Go-eMMC-Tactile-Gris-luna/a20974631/w-4",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Greed® MK2 - PC Gamer - AMD Ryzen 7 5700X + Nvidia Geforce RTX 5060 - Ordinateur de Bureau / PC Gaming - 4,6 GHz - 4K & Raytracing - 32GO DDR4 RAM - 1To SSD - WiFi + Windows 11 Pro",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 899.9,
+      "picture": [
+        {
+          "title": "Greed® MK2 - PC Gamer - AMD Ryzen 7 5700X + Nvidia Geforce RTX 5060 - Ordinateur de Bureau / PC Gaming - 4,6 GHz - 4K & Raytracing - 32GO DDR4 RAM - 1To SSD - WiFi + Windows 11 Pro",
+          "url": "https://static.fnac-static.com/multimedia/Images/0F/E0/98/15/22646287-1505-1540-1/tsp20250912105101/Greed-MK2-PC-Gamer-AMD-Ryzen-7-5700X-Nvidia-Geforce-RTX-5060-Ordinateur-de-Bureau-PC-Gaming-4-6-GHz-4K-Raytracing-32GO-DDR4-RAM-1To-D-WiFi-Windows-11-Pro.jpg#a83bc61d-36ce-435a-8a48-9522961bf816"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp49559018/Pc-Gaming-Greed-MK2-Nvidia-Geforce-RTX-3060-AMD-Ryzen-7-32-Go-RAM-1-To-SSD-Win-11-Pro/w-4#omnsearchpos=6",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Gaming HP Victus 15-fb3025nf 15,6\" Full HD 144 Hz AMD Ryzen™ 5 16 Go RAM 512 Go SSD AMD Radeon RX 6550M Argent Mica",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": null,
+      "picture": [
+        {
+          "title": "PC portable Gaming HP Victus 15-fb3025nf 15,6\" Full HD 144 Hz AMD Ryzen™ 5 16 Go RAM 512 Go SSD AMD Radeon RX 6550M Argent Mica",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/bd/2a/b2/28453565/1540-1/tsp20251120212440/PC-portable-Gaming-HP-Victus-15-fb3025nf-15-6-Full-HD-144-Hz-AMD-Ryzen-5-16-Go-RAM-512-Go-D-AMD-Radeon-RX-6550M-Argent-Mica.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Gaming-HP-Victus-15-fb3025nf-15-6-Full-HD-144-Hz-AMD-Ryzen-5-16-Go-RAM-512-Go-SSD-AMD-Radeon-760M-Argent-Mica/a21739637/w-4#omnsearchpos=7",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Chromebook Acer 314 CBOA314-1HC69G 14'' 60 Hz LCD Intel® Celeron 8 Go RAM 128 Go eMMC Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 299.99,
+      "picture": [
+        {
+          "title": "Chromebook Acer 314 CBOA314-1HC69G 14'' 60 Hz LCD Intel® Celeron 8 Go RAM 128 Go eMMC Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/34/ca/a9/27904564/1540-1/tsp20251013141540/Chromebook-Acer-314-CBOA314-1HC69G-14-60-Hz-LCD-Intel-Celeron-8-Go-RAM-128-Go-eMMC-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Chromebook-Acer-314-CBOA314-1HC69G-14-60-Hz-LCD-Intel-Celeron-8-Go-RAM-128-Go-eMMC-Noir/a21327890/w-4#omnsearchpos=8",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Chromebook Lenovo Duet 11M889 10,95\" MediaTek 8 Go RAM 128 Go eMMC Tactile Gris luna",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 279.99,
+      "picture": [
+        {
+          "title": "Chromebook Lenovo Duet 11M889 10,95\" MediaTek 8 Go RAM 128 Go eMMC Tactile Gris luna",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/67/00/a3/27459687/1540-1/tsp20251107032613/Chromebook-Lenovo-Duet-11M889-10-95-MediaTek-8-Go-RAM-128-Go-eMMC-Tactile-Gris-luna.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Chromebook-Lenovo-Duet-11M889-10-95-MediaTek-8-Go-RAM-128-Go-eMMC-Tactile-Gris-luna/a20974631/w-4#omnsearchpos=9",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Pack Chromebook Asus Plus CX3402CVA-MW0999 14\" écran tactile Intel® Core™ i3 8 Go RAM 256 Go SSD Gris + Pochette + Souris",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 449.99,
+      "picture": [
+        {
+          "title": "Pack Chromebook Asus Plus CX3402CVA-MW0999 14\" écran tactile Intel® Core™ i3 8 Go RAM 256 Go SSD Gris + Pochette + Souris",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/9e/7a/a6/27687582/1540-1/tsp20251010032711/Pack-Chromebook-Asus-Plus-CX3402CVA-MW0999-14-ecran-tactile-Intel-Core-i3-8-Go-RAM-256-Go-D-Gris-Pochette-Souris.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Pack-Chromebook-Asus-Plus-CX3402CVA-MW0999-14-Intel-Core-i3-8-Go-RAM-256-Go-SSD-Tactile-Gris-Pochette-Souris/a21149585/w-4#omnsearchpos=10",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Ordinateur portable - HP - HP ProBook - - 256Go SSD - Intel Core i5-4200M 2,5GHz - 8Go (8192Mo)",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": null,
+      "picture": [
+        {
+          "title": "Ordinateur portable - HP - HP ProBook - - 256Go SSD - Intel Core i5-4200M 2,5GHz - 8Go (8192Mo)",
+          "url": "https://static.fnac-static.com/multimedia/Images/61/46/04/13/19940449-1505-1540-1/tsp20220909104620/Ordinateur-portable-HP-HP-ProBook-256Go-D-Intel-Core-i5-4200M-2-5GHz-8Go-8192Mo.jpg#33a2863c-8f03-4eb9-ad0f-ad62d55f8327"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp47079569/Ordinateur-Portable-HP-ProBook-640-G1-8Go-240Go-SSD-Argent-Noir/w-4#omnsearchpos=11",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Asus Vivobook 15 E510KA-DRFBQ1307W 15,6\" Full HD 60 Hz Intel® Celeron® 8 Go RAM 128 Go eMMC Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 329.99,
+      "picture": [
+        {
+          "title": "PC portable Asus Vivobook 15 E510KA-DRFBQ1307W 15,6\" Full HD 60 Hz Intel® Celeron® 8 Go RAM 128 Go eMMC Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/de/a2/b6/28746462/1540-1/tsp20251031102458/PC-portable-Asus-Vivobook-15-E510KA-DRFBQ1307W-15-6-Full-HD-60-Hz-Intel-Celeron-8-Go-RAM-128-Go-eMMC-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Asus-Vivobook-15-E510KA-DRFBQ1307W-15-6-Full-HD-60-Hz-Intel-Celeron-8-Go-RAM-128-Go-eMMC-Noir/a21968457/w-4#omnsearchpos=12",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC Portable YOGA-15,6FullView Ecran Tactile 360°Rotation-AMD RYZEN3 3200U-16Go RAM-512Go SSD-Ordinateur Portable- AZERTY",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 369.99,
+      "picture": [
+        {
+          "title": "PC Portable YOGA-15,6FullView Ecran Tactile 360°Rotation-AMD RYZEN3 3200U-16Go RAM-512Go SSD-Ordinateur Portable- AZERTY",
+          "url": "https://static.fnac-static.com/multimedia/Images/7A/07/1B/1B/28422266-1505-1540-1/tsp20250612113519/PC-Portable-YOGA-15-6FullView-Ecran-Tactile-360-Rotation-AMD-RYZEN3-3200U-16Go-RAM-512Go-D-Ordinateur-Portable-AZERTY.jpg#51b06140-0d59-4f85-8e45-8bf1140499b1"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp52190124/PC-Portable-YOGA-15-6FullView-Ecran-Tactile-360-Rotation-AMD-RYZEN3-3200U-16Go-RAM-512Go-SSD-Ordinateur-Portable-AZERTY/w-4#omnsearchpos=13",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable HP Zbook Firefly 14 G7 14\" Full HD Intel® Core™ i5 16 Go RAM 256 Go SSD Argent Reconditionné",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 349,
+      "picture": [
+        {
+          "title": "PC portable HP Zbook Firefly 14 G7 14\" Full HD Intel® Core™ i5 16 Go RAM 256 Go SSD Argent Reconditionné",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/8a/7c/b7/28802186/1540-1/tsp20251105101849/PC-portable-HP-Zbook-Firefly-14-G7-14-Full-HD-Intel-Core-i5-16-Go-RAM-256-Go-D-Argent-Reconditionne.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-HP-Zbook-Firefly-14-G7-14-Full-HD-Intel-Core-i5-16-Go-RAM-256-Go-SSD-Argent-Reconditionne/a22029734/w-4#omnsearchpos=14",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Chromebook Acer Plus 516 CB516-1HT 16” Tactile Intel® Core™ i3 8 Go RAM 512 Go SSD Gris Acier",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 499.99,
+      "picture": [
+        {
+          "title": "Chromebook Acer Plus 516 CB516-1HT 16” Tactile Intel® Core™ i3 8 Go RAM 512 Go SSD Gris Acier",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/33/ca/a9/27904563/1540-1/tsp20251014140740/Chromebook-Acer-Plus-516-CB516-1HT-16-Tactile-Intel-Core-i3-8-Go-RAM-512-Go-D-Gris-Acier.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Chromebook-Acer-Plus-516-CB516-1HT-16-Tactile-Intel-Core-i3-8-Go-RAM-512-Go-SSD-Gris-Acier/a21327889/w-4#omnsearchpos=15",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Lenovo T14 G2 14\" Ecran Tactile Intel® Core i5 16 Go RAM 256 Go SSD Noir Reconditionné",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 479,
+      "picture": [
+        {
+          "title": "PC portable Lenovo T14 G2 14\" Ecran Tactile Intel® Core i5 16 Go RAM 256 Go SSD Noir Reconditionné",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/2b/3a/b7/28785195/1540-1/tsp20251103181816/PC-portable-Lenovo-T14-G2-14-Ecran-Tactile-Intel-Core-i5-16-Go-RAM-256-Go-D-Noir-Reconditionne.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Lenovo-T14-G2-14-Ecran-Tactile-Intel-Core-i5-16-Go-RAM-256-Go-SSD-Noir-Reconditionne/a22005093/w-4#omnsearchpos=16",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable Samsung Galaxy Book4 Edge 15,6\" Copilot+ Snapdragon® X 16 Go RAM 512 Go SSD Gris glacier",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 599.99,
+      "picture": [
+        {
+          "title": "PC portable Samsung Galaxy Book4 Edge 15,6\" Copilot+ Snapdragon® X 16 Go RAM 512 Go SSD Gris glacier",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/da/63/b7/28795866/1540-1/tsp20251017151805/PC-portable-Samsung-Galaxy-Book4-Edge-15-6-Copilot-Snapdragon-X-16-Go-RAM-512-Go-D-Gris-glacier.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-Samsung-Galaxy-Book4-Edge-15-6-Copilot-Snapdragon-X-16-Go-RAM-512-Go-SSD-Gris-glacier/a22013169/w-4#omnsearchpos=17",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable HP 14-ep0052nf 14\" Intel® Core™ i7 16 Go RAM 512 Go SSD Argent Naturel",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 703.99,
+      "picture": [
+        {
+          "title": "PC portable HP 14-ep0052nf 14\" Intel® Core™ i7 16 Go RAM 512 Go SSD Argent Naturel",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/ec/26/b2/28452588/1540-1/tsp20251124131555/PC-portable-HP-14-ep0052nf-14-Intel-Core-i7-16-Go-RAM-512-Go-D-Argent-Naturel.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-HP-14-ep0052nf-14-Intel-Core-i7-16-Go-RAM-512-Go-SSD-Argent-Naturel/a21739373/w-4#omnsearchpos=18",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable-Intel Alder Lake N95(4 cœurs/4 threads)-NVIDIA GeForce MX330-16Go RAM DDR4 512Go SSD-Windows 11 PRO-Ordinateur Portable",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 349.99,
+      "picture": [
+        {
+          "title": "PC portable-Intel Alder Lake N95(4 cœurs/4 threads)-NVIDIA GeForce MX330-16Go RAM DDR4 512Go SSD-Windows 11 PRO-Ordinateur Portable",
+          "url": "https://static.fnac-static.com/multimedia/Images/8E/18/E9/16/24023438-1505-1540-1/tsp20250303130033/PC-portable-Intel-Alder-Lake-N95-4-coeurs-4-threads-NVIDIA-GeForce-MX330-16Go-RAM-DDR4-512Go-D-Windows-11-PRO-Ordinateur-Portable.jpg#9e62f9d5-a477-4067-bb53-7fb68f3f04e7"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp50824821/Ordinateur-Portable-2520-1680-IPS-24-Go-DDR4-512-Go-SSD-Intel-Alder-Lake-N95-Jusqu-a-3-4-GHz-PC-Portable-leger-avec-16-1-Pouces-Double-Wi-Fi-BT5-0-USB-3-0-AZERTY/w-4#omnsearchpos=19",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "PC portable HP 17-cp3021nf 17,3\" AMD Ryzen™ 7 16 Go RAM 1 To SSD Argent Naturel",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": null,
+      "picture": [
+        {
+          "title": "PC portable HP 17-cp3021nf 17,3\" AMD Ryzen™ 7 16 Go RAM 1 To SSD Argent Naturel",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/ef/26/b2/28452591/1540-1/tsp20251004025808/PC-portable-HP-17-cp3021nf-17-3-AMD-Ryzen-7-16-Go-RAM-1-To-D-Argent-Naturel.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "ordinateur",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/PC-portable-HP-17-cp3021nf-17-3-AMD-Ryzen-7-16-Go-RAM-1-To-SSD-Argent-Naturel/a21739376/w-4#omnsearchpos=20",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV Tcl QLED 55P89K 138 cm 2025",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 499.99,
+      "picture": [
+        {
+          "title": "TV Tcl QLED 55P89K 138 cm 2025",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/67/e4/ac/28107879/1540-1/tsp20251124172603/TV-Tcl-QLED-55P89K-138-cm-2025.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-QLED-Tcl-55P89K-138-cm-4K-UHD-Aluminium-brosse/a21500223/w-4",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Smart Tech TV LED 4K UHD 55' (139 cm) Smart TV Web OS-55UW02K- Molotov, Netflix, Prime Video, Disney+ - 3xHDMI - 2xUSB - MEMC- Dolby Audio",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 299.9,
+      "picture": [
+        {
+          "title": "Smart Tech TV LED 4K UHD 55' (139 cm) Smart TV Web OS-55UW02K- Molotov, Netflix, Prime Video, Disney+ - 3xHDMI - 2xUSB - MEMC- Dolby Audio",
+          "url": "https://static.fnac-static.com/multimedia/Images/F7/CF/7D/1B/28826871-1505-1540-1/tsp20251001123226/Smart-Tech-TV-LED-4K-UHD-55-139-cm-Smart-TV-Web-OS-55UW02K-Molotov-Netflix-Prime-Video-Disney-3xHDMI-2xUSB-MEMC-Dolby-Audio.jpg#d4fb1072-6dad-4434-9519-8bf2991a5d81"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp52594754/Smart-Tech-TV-LED-4K-UHD-55-139-cm-Smart-TV-Web-OS-55UW02K-Molotov-Netflix-Prime-Video-Disney-3xHDMI-2xUSB-MEMC-Dolby-Audio/w-4#omnsearchpos=1",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Smart Tech TV LED Full HD 22 (55 cm) 22FN01V, HDMI, USB, Résolution: 1920 * 1080",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 99.9,
+      "picture": [
+        {
+          "title": "Smart Tech TV LED Full HD 22 (55 cm) 22FN01V, HDMI, USB, Résolution: 1920 * 1080",
+          "url": "https://static.fnac-static.com/multimedia/Images/CE/9C/F8/16/24086990-1505-1540-1/tsp20240829165010/Smart-Tech-TV-LED-Full-HD-22-55-cm-22FN01V-HDMI-USB-Resolution-1920-1080.jpg#86323694-d5f0-49ad-8424-2feac4dcca67"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp50932845/Smart-Tech-TV-LED-Full-HD-22-55-cm-22FN01V-HDMI-USB-Resolution-1920-1080/w-4#omnsearchpos=2",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Smart Tech TV LED 4K UHD 43' (108 cm) Smart TV Web OS-43UW02V- Netflix, Prime Video, Youtube - 3xHDMI - 2xUSB - MEMC- DOLBY Audio",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 219.9,
+      "picture": [
+        {
+          "title": "Smart Tech TV LED 4K UHD 43' (108 cm) Smart TV Web OS-43UW02V- Netflix, Prime Video, Youtube - 3xHDMI - 2xUSB - MEMC- DOLBY Audio",
+          "url": "https://static.fnac-static.com/multimedia/Images/CC/0C/CD/16/23908556-1505-1540-1/tsp20240704182918/Smart-Tech-TV-LED-4K-UHD-43-108-cm-Smart-TV-Web-OS-43UW02V-Netflix-Prime-Video-Youtube-3xHDMI-2xUSB-MEMC-DOLBY-Audio.jpg#f24f7cb3-628d-4ea5-bd0a-b6509d02c572"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp50448451/Smart-Tech-TV-LED-4K-UHD-43-108-cm-Smart-TV-Web-OS-43UW02V-Molotov-Netflix-Prime-Video-Canal-Disney-3xHDMI-2xUSB-MEMC-DOLBY-Audio/w-4#omnsearchpos=3",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV Hisense QLED 50E79Q PRO 126 cm 2025",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 449.99,
+      "picture": [
+        {
+          "title": "TV Hisense QLED 50E79Q PRO 126 cm 2025",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/03/20/b2/28450819/1540-1/tsp20251120001539/TV-Hisense-QLED-50E79Q-PRO-126-cm-2025.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-Hisense-QLED-50E79Q-PRO-126-cm-2025/a21739200/w-4",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Smart Tech TV LED 4K UHD 50' (127cm) Smart TV Web OS-50UW02K- Netflix, Prime Video, Youtube 3xHDMI 2xUSB",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 259.9,
+      "picture": [
+        {
+          "title": "Smart Tech TV LED 4K UHD 50' (127cm) Smart TV Web OS-50UW02K- Netflix, Prime Video, Youtube 3xHDMI 2xUSB",
+          "url": "https://static.fnac-static.com/multimedia/Images/F4/CF/7D/1B/28826868-1505-1540-1/tsp20251001123319/Smart-Tech-TV-LED-4K-UHD-50-127cm-Smart-TV-Web-OS-50UW02K-Netflix-Prime-Video-Youtube-3xHDMI-2xUSB.jpg#34331129-7c63-40e0-ab21-ab3cb7d69ba5"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp52594750/Smart-Tech-TV-LED-4K-UHD-50-127cm-Smart-TV-Web-OS-50UW02K-Netflix-Prime-Video-Youtube-3xHDMI-2xUSB/w-4#omnsearchpos=4",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV Tcl QLED 55P89K 138 cm 2025",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 499.99,
+      "picture": [
+        {
+          "title": "TV Tcl QLED 55P89K 138 cm 2025",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/67/e4/ac/28107879/1540-1/tsp20251124172603/TV-Tcl-QLED-55P89K-138-cm-2025.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-QLED-Tcl-55P89K-138-cm-4K-UHD-Aluminium-brosse/a21500223/w-4#omnsearchpos=5",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV Samsung Neo QLED TQ98QN990F 249 cm 2025",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 32999,
+      "picture": [
+        {
+          "title": "TV Samsung Neo QLED TQ98QN990F 249 cm 2025",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/4b/8d/b7/28806475/1540-1/tsp20251205111905/TV-Samsung-Neo-QLED-TQ98QN990F-249-cm-2025.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-Samsung-Neo-QLED-TQ98QN990F-249-cm-2025/a22038417/w-4#omnsearchpos=6",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Smart Tech TV LED 4K UHD 65' (164 cm) Smart TV Web OS-65UW02K- Molotov, Netflix, Prime Video, Canal+, Disney+ - 3xHDMI - 2xUSB - MEMC- Dolby Audio",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 389.9,
+      "picture": [
+        {
+          "title": "Smart Tech TV LED 4K UHD 65' (164 cm) Smart TV Web OS-65UW02K- Molotov, Netflix, Prime Video, Canal+, Disney+ - 3xHDMI - 2xUSB - MEMC- Dolby Audio",
+          "url": "https://static.fnac-static.com/multimedia/Images/FB/CF/7D/1B/28826875-1505-1540-1/tsp20251001123228/Smart-Tech-TV-LED-4K-UHD-65-164-cm-Smart-TV-Web-OS-65UW02K-Molotov-Netflix-Prime-Video-Canal-Disney-3xHDMI-2xUSB-MEMC-Dolby-Audio.jpg#d94f17c7-875e-4e36-8c83-ac85753086b0"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp52594758/Smart-Tech-TV-LED-4K-UHD-65-164-cm-Smart-TV-Web-OS-65UW02K-Molotov-Netflix-Prime-Video-Canal-Disney-3xHDMI-2xUSB-MEMC-Dolby-Audio/w-4#omnsearchpos=7",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV LED Proline L3220HD 80 cm HD Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 99.99,
+      "picture": [
+        {
+          "title": "TV LED Proline L3220HD 80 cm HD Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/75/d2/4c/21811829/1540-1/tsp20251014151021/TV-LED-Proline-L3220HD-80-cm-HD-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-LED-Proline-L3220HD-80-cm-HD-2023-Noir/a17907842/w-4#omnsearchpos=8",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV LED Thomson 32HG2S14 81 cm HD",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 169.99,
+      "picture": [
+        {
+          "title": "TV LED Thomson 32HG2S14 81 cm HD",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/43/8b/6b/23825219/1540-1/tsp20251202200356/TV-LED-Thomson-32HG2S14-81-cm-HD.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-LED-Thomson-32HG2S14-81-cm-HD-2024/a20611414/w-4#omnsearchpos=9",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Smart Tech TV LED HD 32\" (80 cm) Smart TV Google 32HG01V HDMI, USB, Résolution: 1366 * 768",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 135.26,
+      "picture": [
+        {
+          "title": "Smart Tech TV LED HD 32\" (80 cm) Smart TV Google 32HG01V HDMI, USB, Résolution: 1366 * 768",
+          "url": "https://static.fnac-static.com/multimedia/Images/D8/CD/85/16/23616728-1505-1540-1/tsp20250926121830/Smart-Tech-TV-LED-HD-32-80-cm-Smart-TV-Google-32HG01V-HDMI-USB-Resolution-1366-768.jpg#dd96ef00-1d8f-457b-9803-b6c87de3fa51"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp50017636/Smart-Tech-TV-LED-HD-32-80-cm-Smart-TV-Google-32HG01V-HDMI-USB-Resolution-1366-768/w-4#omnsearchpos=10",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV LED Philips Ambilight 65PUS8000/12 164 cm 2025",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 699.99,
+      "picture": [
+        {
+          "title": "TV LED Philips Ambilight 65PUS8000/12 164 cm 2025",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/77/18/ae/28186743/1540-1/tsp20251021140315/TV-LED-Philips-Ambilight-65PUS8000-12-164-cm-2025.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-LED-Philips-65PUS8000-164-cm-4K-UHD-Ambilight-2025/a21552997/w-4#omnsearchpos=11",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV Tcl QLED 43P79K 108 cm 2025",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 279.99,
+      "picture": [
+        {
+          "title": "TV Tcl QLED 43P79K 108 cm 2025",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/5c/e4/ac/28107868/1540-1/tsp20251120000021/TV-Tcl-QLED-43P79K-108-cm-2025.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-QLED-Tcl-43P79K-108-cm-4K-UHD-Aluminium-brosse/a21500213/w-4#omnsearchpos=12",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV LED Philips Ambilight 85PUS8500/12 215 cm 2025",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 1399,
+      "picture": [
+        {
+          "title": "TV LED Philips Ambilight 85PUS8500/12 215 cm 2025",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/9f/f3/ad/28177311/1540-1/tsp20251110141358/TV-LED-Philips-Ambilight-85PUS8500-12-215-cm-2025.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-QLED-Philips-85PUS8500-215-cm-4K-UHD-Ambilight-2025/a21552989/w-4#omnsearchpos=13",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "Smart Tech TV QLED 4K UHD 50' (126 cm) 50QA20VAUK Smart TV Android - 4xHDMI - 2xUSB - Dolby Audio",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": null,
+      "picture": [
+        {
+          "title": "Smart Tech TV QLED 4K UHD 50' (126 cm) 50QA20VAUK Smart TV Android - 4xHDMI - 2xUSB - Dolby Audio",
+          "url": "https://static.fnac-static.com/multimedia/Images/8A/58/53/1B/28652938-1505-1540-1/tsp20250910232139/Smart-Tech-TV-QLED-4K-UHD-50-126-cm-50QA20VAUK-Smart-TV-Android-4xHDMI-2xUSB-Dolby-Audio.jpg#cbc2deea-4b64-4834-953f-bab1d91edb21"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/mp52418261/Smart-Tech-TV-QLED-4K-UHD-50-126-cm-50QA20VAUK-Smart-TV-Android-4xHDMI-2xUSB-Dolby-Audio/w-4#omnsearchpos=14",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV LED Proline L2420HD 60 cm HD Noir",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 84.99,
+      "picture": [
+        {
+          "title": "TV LED Proline L2420HD 60 cm HD Noir",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/78/d2/4c/21811832/1540-1/tsp20251014140740/TV-LED-Proline-L2420HD-60-cm-HD-Noir.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-LED-Proline-L2420HD-60-cm-HD-2023-Noir/a17907845/w-4#omnsearchpos=15",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV LED Philips 32PHS6050 80 cm 2025",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 159.99,
+      "picture": [
+        {
+          "title": "TV LED Philips 32PHS6050 80 cm 2025",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/56/c5/b0/28362070/1540-1/tsp20251009144956/TV-LED-Philips-32PHS6050-80-cm-2025.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-LED-Philips-32PHS6050-80-cm-2025/a21683237/w-4#omnsearchpos=16",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV QLED Philips 4K UHD Ambilight 43PUS8400/12 108 cm 2025",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 349.99,
+      "picture": [
+        {
+          "title": "TV QLED Philips 4K UHD Ambilight 43PUS8400/12 108 cm 2025",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/f8/4f/b3/28528632/1540-1/tsp20251124191022/TV-QLED-Philips-4K-UHD-Ambilight-43PUS8400-12-108-cm-2025.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-QLED-Philips-4K-UHD-Ambilight-43PUS8400-12-108-cm-2025/a21842704/w-4#omnsearchpos=17",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV Philips Ambilight The One 55PUS9050 139 cm 2025",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 699.99,
+      "picture": [
+        {
+          "title": "TV Philips Ambilight The One 55PUS9050 139 cm 2025",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/bc/4f/ad/28135356/1540-1/tsp20251124181216/TV-Philips-Ambilight-The-One-55PUS9050-139-cm-2025.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-QLED-Philips-The-One-55PUS9050-139-cm-4K-UHD-Ambilight-2025-Gris-metal/a21517725/w-4#omnsearchpos=18",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV Philips 43PUS6754 UHD 4K Ambilight 3 côtes Smart TV 43''",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 203.41,
+      "picture": [
+        {
+          "title": "TV Philips 43PUS6754 UHD 4K Ambilight 3 côtes Smart TV 43''",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/33/d3/b0/11588403/1540-1/tsp20251001032027/TV-Philips-43PUS6754-UHD-4K-Ambilight-3-cotes-Smart-TV-43.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/Philips-43PUS6754-Classe-de-diagonale-43-6700-Series-TV-LCD-retro-eclairee-par-LED-Smart-TV-Saphi-TV-4K-UHD-2160p-3840-x-2160-HDR-argent-intermediaire/a13462858/w-4#omnsearchpos=19",
+          "price": 949
+        }
+      ]
+    },
+    {
+      "name": "TV LED Thomson 43UG5C14 109 cm 4K UHD",
+      "desc": "Portable Gaming d'entrée de gamme, idéal pour les joueurs avec un budget limité.",
+      "mooyenne_price": 299.99,
+      "picture": [
+        {
+          "title": "TV LED Thomson 43UG5C14 109 cm 4K UHD",
+          "url": "https://static.fnac-static.com/multimedia/Images/FR/MDM/46/8b/6b/23825222/1540-1/tsp20251030131152/TV-LED-Thomson-43UG5C14-109-cm-4K-UHD.jpg"
+        }
+      ],
+      "marque": "Acer",
+      "categorie": "télévision",
+      "vendeurs": [
+        {
+          "vendeur": "Fnac",
+          "avis": [
+            {
+              "content": "Le meilleur pour commencer le PC Gaming.",
+              "note": 4.3
+            }
+          ],
+          "url": "https://www.fnac.com/TV-LED-Thomson-43UG5C14-109-cm-4K-UHD-2024/a20611417/w-4#omnsearchpos=20",
+          "price": 949
+        }
+      ]
+    }
+  ]
